@@ -156,9 +156,18 @@ async def websocket_game_endpoint(websocket: WebSocket, room_id: str, player_nam
 import os
 from fastapi.staticfiles import StaticFiles
 
-frontend_dist = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend", "dist")
-if os.path.exists(frontend_dist):
+possible_dist_paths = [
+    os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "frontend", "dist"),
+    os.path.join(os.getcwd(), "frontend", "dist"),
+    os.path.abspath("frontend/dist"),
+]
+
+frontend_dist = next((p for p in possible_dist_paths if os.path.exists(p)), None)
+if frontend_dist:
+    print(f"INFO: Successfully mounted frontend from: {frontend_dist}")
     app.mount("/", StaticFiles(directory=frontend_dist, html=True), name="static")
+else:
+    print("WARNING: frontend/dist could not be found! Available in cwd:", os.listdir(os.getcwd()))
 
 
 if __name__ == "__main__":
