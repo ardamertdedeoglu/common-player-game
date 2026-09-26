@@ -26,7 +26,7 @@ export default function App() {
   // Connection & Room state
   const [inGame, setInGame] = useState(false);
   const [roomState, setRoomState] = useState(null);
-  const [myPlayerId, setMyPlayerId] = useState(null);
+  const [myPlayerId, setMyPlayerId] = useState(() => sessionStorage.getItem('cp_player_id') || null);
   const [copied, setCopied] = useState(false);
   const [systemAlert, setSystemAlert] = useState(null);
 
@@ -45,6 +45,8 @@ export default function App() {
 
   const wsRef = useRef(null);
   const guessInputRef = useRef(null);
+  const myPlayerIdRef = useRef(sessionStorage.getItem('cp_player_id') || null);
+  const handleWsMessageRef = useRef(null);
 
   // Save player name
   useEffect(() => {
@@ -85,6 +87,8 @@ export default function App() {
       wsRef.current.close();
       wsRef.current = null;
     }
+    myPlayerIdRef.current = null;
+    sessionStorage.removeItem('cp_player_id');
     setInGame(false);
     setRoomState(null);
     setMyPlayerId(null);
@@ -114,13 +118,15 @@ export default function App() {
     ws.onmessage = (event) => {
       try {
         const message = JSON.parse(event.data);
-        handleWsMessage(message);
+        handleWsMessageRef.current?.(message);
       } catch (err) {
         console.error("WS Parse error:", err);
       }
     };
 
     ws.onclose = () => {
+      myPlayerIdRef.current = null;
+      sessionStorage.removeItem('cp_player_id');
       setInGame(false);
       setRoomState(null);
       setMyPlayerId(null);
@@ -135,15 +141,13 @@ export default function App() {
     const { type, data } = msg;
 
     if (type === 'INIT') {
+      myPlayerIdRef.current = data.player_id;
+      sessionStorage.setItem('cp_player_id', data.player_id);
       setMyPlayerId(data.player_id);
       setRoomState(data.state);
       setSystemAlert(null);
     } else if (type === 'PLAYER_JOINED') {
       setRoomState(data.state);
-      // Determine myPlayerId if not set
-      if (!myPlayerId && data.player && data.player.name === playerName.trim()) {
-        setMyPlayerId(data.player.id);
-      }
       setSystemAlert({ text: data.message, type: 'info' });
       setTimeout(() => setSystemAlert(null), 5000);
     } else if (type === 'PLAYER_LEFT') {
@@ -195,6 +199,9 @@ export default function App() {
       alert(data.message);
     }
   };
+
+  // Keep latest message handler ref updated to prevent stale closures
+  handleWsMessageRef.current = handleWsMessage;
 
   // Actions
   const handleCreateRoom = async () => {
@@ -268,9 +275,20 @@ export default function App() {
     window.open(window.location.href, '_blank');
   };
 
+  const isMe = (player) => {
+    if (!player) return false;
+    const currentId = myPlayerId || myPlayerIdRef.current || sessionStorage.getItem('cp_player_id');
+    if (currentId && player.id === currentId) return true;
+    // If only 1 player is in the room and we are in-game, that player is definitely us!
+    if (roomState?.players?.length === 1) return true;
+    // Fallback to name match
+    if (player.name && player.name.trim() === playerName.trim()) return true;
+    return false;
+  };
+
   const isMyTurn = () => {
-    if (!roomState || !myPlayerId) return false;
-    const me = roomState.players.find(p => p.id === myPlayerId);
+    if (!roomState) return false;
+    const me = roomState.players.find(p => isMe(p));
     return me ? !me.has_selected_team : true;
   };
 
@@ -449,7 +467,7 @@ export default function App() {
               </div>
               <div>
                 <div className="player-name-label">{p1?.name || 'Oyuncu 1 Bekleniyor...'}</div>
-                <div className="player-badge-tag">{p1 ? (p1.id === myPlayerId ? 'Sen' : 'Rakip') : ''}</div>
+                <div className="player-badge-tag">{p1 ? (isMe(p1) ? 'Sen' : 'Rakip') : ''}</div>
                 <div className="score-points">
                   {Array.from({ length: roomState.target_score }).map((_, i) => (
                     <div
@@ -482,7 +500,7 @@ export default function App() {
               </div>
               <div>
                 <div className="player-name-label">{p2?.name || 'Rakip Bekleniyor...'}</div>
-                <div className="player-badge-tag">{p2 ? (p2.id === myPlayerId ? 'Sen' : 'Rakip') : ''}</div>
+                <div className="player-badge-tag">{p2 ? (isMe(p2) ? 'Sen' : 'Rakip') : ''}</div>
                 <div className="score-points" style={{ justifyContent: 'flex-end' }}>
                   {Array.from({ length: roomState.target_score }).map((_, i) => (
                     <div
@@ -516,7 +534,7 @@ export default function App() {
                   <div className="player-avatar" style={{ width: 50, height: 50 }}>
                     {p1?.name?.[0]?.toUpperCase()}
                   </div>
-                  <strong>{p1?.name}</strong>
+                  <strong>{p1?.name} {p1 && isMe(p1) ? '(Sen)' : ''}</strong>
                   <span style={{ fontSize: '0.8rem', color: p1?.is_ready ? 'var(--accent-green)' : 'var(--text-dim)' }}>
                     {p1?.is_ready ? '✅ Hazır' : '⏳ Hazır Bekleniyor'}
                   </span>
@@ -528,7 +546,7 @@ export default function App() {
                       <div className="player-avatar" style={{ width: 50, height: 50 }}>
                         {p2.name[0].toUpperCase()}
                       </div>
-                      <strong>{p2.name}</strong>
+                      <strong>{p2.name} {isMe(p2) ? '(Sen)' : ''}</strong>
                       <span style={{ fontSize: '0.8rem', color: p2.is_ready ? 'var(--accent-green)' : 'var(--text-dim)' }}>
                         {p2.is_ready ? '✅ Hazır' : '⏳ Hazır Bekleniyor'}
                       </span>
