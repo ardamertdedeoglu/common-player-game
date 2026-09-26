@@ -47,7 +47,7 @@ async def create_room_endpoint(req: CreateRoomRequest):
 @app.get("/api/room/{room_id}")
 async def check_room_endpoint(room_id: str):
     room = game_manager.rooms.get(room_id.upper().strip())
-    if not room:
+    if not room or len(room.players) == 0:
         return {"exists": False, "message": "Oda bulunamadı"}
     if len(room.players) >= 2:
         return {"exists": True, "full": True, "message": "Oda dolu"}
@@ -76,7 +76,17 @@ async def websocket_game_endpoint(websocket: WebSocket, room_id: str, player_nam
         await websocket.close()
         return
 
-    # Broadcast updated room state
+    # Send INIT event directly to this connected player
+    await websocket.send_json({
+        "type": "INIT",
+        "data": {
+            "player_id": player.id,
+            "player": player.to_dict(),
+            "state": room.get_state_payload(),
+        }
+    })
+
+    # Broadcast updated room state to all players
     await room.broadcast("PLAYER_JOINED", {
         "player": player.to_dict(),
         "state": room.get_state_payload(),
@@ -116,7 +126,7 @@ async def websocket_game_endpoint(websocket: WebSocket, room_id: str, player_nam
                         "has_selected": True
                     })
                     # If both picked, transition immediately
-                    if all(p.selected_team for p in room.players):
+                    if len(room.players) == 2 and all(p.selected_team for p in room.players):
                         if room.timer_task and not room.timer_task.done():
                             room.timer_task.cancel()
                         await game_manager.resolve_teams_and_start_round(room)
@@ -127,11 +137,7 @@ async def websocket_game_endpoint(websocket: WebSocket, room_id: str, player_nam
                     await game_manager.handle_guess(room, player, guess_text)
 
             elif m_type == "REMATCH":
-                for p in room.players:
-                    p.score = 0
-                    p.is_ready = False
-                room.status = "LOBBY"
-                room.round_number = 0
+                room.reset_to_lobby()
                 await room.broadcast("STATE_UPDATE", room.get_state_payload())
 
             elif m_type == "CHAT":
@@ -141,15 +147,11 @@ async def websocket_game_endpoint(websocket: WebSocket, room_id: str, player_nam
                     await room.broadcast("CHAT_MESSAGE", {"sender": player.name, "text": chat_text})
 
     except WebSocketDisconnect:
-        room.remove_player(player_id)
-        await room.broadcast("PLAYER_LEFT", {
-            "player_id": player_id,
-            "player_name": player.name,
-            "state": room.get_state_payload(),
-            "message": f"⚠️ {player.name} oyundan ayrıldı."
-        })
+        pass
     except Exception as e:
-        room.remove_player(player_id)
+        print(f"WS Exception for player {player_id} ({player.name}) in room {room_id}: {e}")
+    finally:
+        await game_manager.handle_player_disconnect(room.room_id, player_id)
 
 
 # Mount static production build of frontend if exists

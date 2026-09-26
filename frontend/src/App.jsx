@@ -28,6 +28,7 @@ export default function App() {
   const [roomState, setRoomState] = useState(null);
   const [myPlayerId, setMyPlayerId] = useState(null);
   const [copied, setCopied] = useState(false);
+  const [systemAlert, setSystemAlert] = useState(null);
 
   // Team selection search state
   const [searchQuery, setSearchQuery] = useState('');
@@ -79,10 +80,26 @@ export default function App() {
     return () => clearTimeout(timer);
   }, [searchQuery]);
 
+  const handleLeaveRoom = () => {
+    if (wsRef.current) {
+      wsRef.current.close();
+      wsRef.current = null;
+    }
+    setInGame(false);
+    setRoomState(null);
+    setMyPlayerId(null);
+    setSelectedTeam(null);
+    setGuessFeedback(null);
+    setGuessInput('');
+    setRevealCountdown(null);
+    setSystemAlert(null);
+  };
+
   // Connect to WebSocket room
   const connectToRoom = (roomId) => {
     if (wsRef.current) {
       wsRef.current.close();
+      wsRef.current = null;
     }
 
     const wsUrl = `${WS_BASE_URL}/${roomId.toUpperCase()}/${encodeURIComponent(playerName.trim() || 'Oyuncu')}`;
@@ -91,6 +108,7 @@ export default function App() {
 
     ws.onopen = () => {
       setInGame(true);
+      setSystemAlert(null);
     };
 
     ws.onmessage = (event) => {
@@ -105,19 +123,36 @@ export default function App() {
     ws.onclose = () => {
       setInGame(false);
       setRoomState(null);
+      setMyPlayerId(null);
+      setSelectedTeam(null);
+      setGuessFeedback(null);
+      setGuessInput('');
+      setRevealCountdown(null);
     };
   };
 
   const handleWsMessage = (msg) => {
     const { type, data } = msg;
 
-    if (type === 'PLAYER_JOINED') {
+    if (type === 'INIT') {
+      setMyPlayerId(data.player_id);
+      setRoomState(data.state);
+      setSystemAlert(null);
+    } else if (type === 'PLAYER_JOINED') {
       setRoomState(data.state);
       // Determine myPlayerId if not set
-      if (!myPlayerId && data.player) {
-        // Last joined is me or matched by name
+      if (!myPlayerId && data.player && data.player.name === playerName.trim()) {
         setMyPlayerId(data.player.id);
       }
+      setSystemAlert({ text: data.message, type: 'info' });
+      setTimeout(() => setSystemAlert(null), 5000);
+    } else if (type === 'PLAYER_LEFT') {
+      setRoomState(data.state);
+      setSelectedTeam(null);
+      setGuessFeedback(null);
+      setGuessInput('');
+      setRevealCountdown(null);
+      setSystemAlert({ text: data.message, type: 'warning' });
     } else if (type === 'STATE_UPDATE') {
       setRoomState(data);
       if (data.status === 'ROUND_ACTIVE') {
@@ -133,6 +168,11 @@ export default function App() {
         setSelectedTeam(null);
         setSearchQuery('');
         setSearchResults([]);
+      } else if (data.status === 'LOBBY') {
+        setSelectedTeam(null);
+        setGuessFeedback(null);
+        setGuessInput('');
+        setRevealCountdown(null);
       }
     } else if (type === 'TIMER_TICK') {
       if (soundEnabled && data.timer <= 5 && data.timer > 0) {
@@ -262,10 +302,7 @@ export default function App() {
           {inGame && (
             <button
               className="btn-icon"
-              onClick={() => {
-                if (wsRef.current) wsRef.current.close();
-                setInGame(false);
-              }}
+              onClick={handleLeaveRoom}
             >
               <RotateCcw size={16} />
               <span>Ayrıl</span>
@@ -273,6 +310,22 @@ export default function App() {
           )}
         </div>
       </header>
+
+      {/* System alert / Disconnect notification */}
+      {systemAlert && (
+        <div className={`system-alert-banner ${systemAlert.type || 'warning'}`}>
+          <div className="alert-content">
+            <span>{systemAlert.text}</span>
+          </div>
+          <button
+            type="button"
+            className="alert-close-btn"
+            onClick={() => setSystemAlert(null)}
+          >
+            ✕
+          </button>
+        </div>
+      )}
 
       {/* Screen 1: Home / Setup (Not in room) */}
       {!inGame && (
