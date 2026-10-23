@@ -47,6 +47,7 @@ export default function App() {
   const guessInputRef = useRef(null);
   const myPlayerIdRef = useRef(sessionStorage.getItem('cp_player_id') || null);
   const handleWsMessageRef = useRef(null);
+  const prevStatusRef = useRef(null);
 
   // Save player name
   useEffect(() => {
@@ -144,6 +145,7 @@ export default function App() {
       myPlayerIdRef.current = data.player_id;
       sessionStorage.setItem('cp_player_id', data.player_id);
       setMyPlayerId(data.player_id);
+      prevStatusRef.current = data.state?.status ?? null;
       setRoomState(data.state);
       setSystemAlert(null);
     } else if (type === 'PLAYER_JOINED') {
@@ -159,6 +161,16 @@ export default function App() {
       setSystemAlert({ text: data.message, type: 'warning' });
     } else if (type === 'STATE_UPDATE') {
       setRoomState(data);
+
+      // Clear any unsent guess text/feedback whenever the game phase changes
+      // (round end, team selection, new round...) so nothing carries over.
+      const prevStatus = prevStatusRef.current;
+      prevStatusRef.current = data.status;
+      if (data.status !== prevStatus) {
+        setGuessInput('');
+        setGuessFeedback(null);
+        setIsInputShaking(false);
+      }
       if (data.status === 'ROUND_ACTIVE') {
         if (soundEnabled) playWhistle();
         setGuessFeedback(null);
@@ -314,7 +326,7 @@ export default function App() {
             title={soundEnabled ? 'Sesi Kapat' : 'Sesi Aç'}
           >
             {soundEnabled ? <Volume2 size={18} /> : <VolumeX size={18} />}
-            <span>{soundEnabled ? 'Ses Açık' : 'Sessiz'}</span>
+            <span className="btn-label">{soundEnabled ? 'Ses Açık' : 'Sessiz'}</span>
           </button>
 
           {inGame && (
@@ -323,7 +335,7 @@ export default function App() {
               onClick={handleLeaveRoom}
             >
               <RotateCcw size={16} />
-              <span>Ayrıl</span>
+              <span className="btn-label">Ayrıl</span>
             </button>
           )}
         </div>
@@ -391,7 +403,7 @@ export default function App() {
 
             <div className="input-group">
               <label>Hedef Galibiyet Puanı</label>
-              <div style={{ display: 'flex', gap: '10px' }}>
+              <div className="target-score-row">
                 <button
                   type="button"
                   className="btn-secondary"
@@ -432,7 +444,7 @@ export default function App() {
               <span>VEYA</span>
             </div>
 
-            <div style={{ display: 'flex', gap: '10px' }}>
+            <div className="join-row">
               <input
                 id="join-code-input"
                 type="text"
@@ -445,8 +457,7 @@ export default function App() {
               />
               <button
                 id="join-room-btn"
-                className="btn-secondary"
-                style={{ width: 'auto', padding: '0 24px' }}
+                className="btn-secondary join-btn"
                 onClick={handleJoinRoom}
               >
                 Katıl
@@ -465,7 +476,7 @@ export default function App() {
               <div className="player-avatar">
                 {p1?.name?.[0]?.toUpperCase() || '1'}
               </div>
-              <div>
+              <div className="player-info">
                 <div className="player-name-label">{p1?.name || 'Oyuncu 1 Bekleniyor...'}</div>
                 <div className="player-badge-tag">{p1 ? (isMe(p1) ? 'Sen' : 'Rakip') : ''}</div>
                 <div className="score-points">
@@ -484,7 +495,7 @@ export default function App() {
               <div className="timer-circle">
                 {roomState.timer ?? '--'}
               </div>
-              <div style={{ fontSize: '0.75rem', color: 'var(--text-dim)', textTransform: 'uppercase' }}>
+              <div className="status-label">
                 {roomState.status === 'TEAM_SELECTION' && 'Takım Seçimi'}
                 {roomState.status === 'ROUND_ACTIVE' && 'Hızlı Yazma!'}
                 {roomState.status === 'PRE_ROUND' && 'Başlıyor'}
@@ -498,7 +509,7 @@ export default function App() {
               <div className="player-avatar">
                 {p2?.name?.[0]?.toUpperCase() || '2'}
               </div>
-              <div>
+              <div className="player-info">
                 <div className="player-name-label">{p2?.name || 'Rakip Bekleniyor...'}</div>
                 <div className="player-badge-tag">{p2 ? (isMe(p2) ? 'Sen' : 'Rakip') : ''}</div>
                 <div className="score-points" style={{ justifyContent: 'flex-end' }}>
@@ -534,7 +545,7 @@ export default function App() {
                   <div className="player-avatar" style={{ width: 50, height: 50 }}>
                     {p1?.name?.[0]?.toUpperCase()}
                   </div>
-                  <strong>{p1?.name} {p1 && isMe(p1) ? '(Sen)' : ''}</strong>
+                  <strong className="slot-name">{p1?.name} {p1 && isMe(p1) ? '(Sen)' : ''}</strong>
                   <span style={{ fontSize: '0.8rem', color: p1?.is_ready ? 'var(--accent-green)' : 'var(--text-dim)' }}>
                     {p1?.is_ready ? '✅ Hazır' : '⏳ Hazır Bekleniyor'}
                   </span>
@@ -546,7 +557,7 @@ export default function App() {
                       <div className="player-avatar" style={{ width: 50, height: 50 }}>
                         {p2.name[0].toUpperCase()}
                       </div>
-                      <strong>{p2.name} {isMe(p2) ? '(Sen)' : ''}</strong>
+                      <strong className="slot-name">{p2.name} {isMe(p2) ? '(Sen)' : ''}</strong>
                       <span style={{ fontSize: '0.8rem', color: p2.is_ready ? 'var(--accent-green)' : 'var(--text-dim)' }}>
                         {p2.is_ready ? '✅ Hazır' : '⏳ Hazır Bekleniyor'}
                       </span>
@@ -601,18 +612,18 @@ export default function App() {
 
               {selectedTeam ? (
                 <div className="selected-team-card count-pop">
-                  <div>
+                  <div className="selected-team-info">
                     <span style={{ fontSize: '0.8rem', color: 'var(--accent-green)', fontWeight: 700, textTransform: 'uppercase' }}>
                       ✓ Seçtiğin Takım
                     </span>
-                    <h3 style={{ fontSize: '1.6rem', fontWeight: 800, color: '#fff' }}>
+                    <h3 className="selected-team-name">
                       {selectedTeam.name}
                     </h3>
                     <span style={{ fontSize: '0.85rem', color: 'var(--text-muted)' }}>
                       {selectedTeam.country} {selectedTeam.league ? `• ${selectedTeam.league}` : ''}
                     </span>
                   </div>
-                  <div style={{ textAlign: 'right' }}>
+                  <div className="selected-team-wait">
                     <span style={{ fontSize: '0.85rem', color: 'var(--text-dim)' }}>
                       Rakibin seçimi bekleniyor... ⏳
                     </span>
@@ -625,13 +636,13 @@ export default function App() {
                       id="team-search-input"
                       type="text"
                       className="custom-input"
-                      placeholder="Transfermarkt'ta takım ara (Örn: Galatasaray, Real Madrid, Arsenal)..."
+                      placeholder="Takım ara (Örn: Galatasaray, Arsenal)..."
                       value={searchQuery}
                       onChange={e => setSearchQuery(e.target.value)}
                       autoFocus
                     />
                     {isSearching && (
-                      <div style={{ position: 'absolute', right: '16px', top: '16px', color: 'var(--text-dim)', fontSize: '0.85rem' }}>
+                      <div className="searching-indicator">
                         Aranıyor...
                       </div>
                     )}
@@ -644,8 +655,8 @@ export default function App() {
                             className="result-item"
                             onClick={() => handleSelectTeam(team)}
                           >
-                            <span style={{ fontWeight: 700 }}>{team.name}</span>
-                            <span style={{ fontSize: '0.8rem', color: 'var(--text-muted)' }}>
+                            <span className="result-name">{team.name}</span>
+                            <span className="result-meta">
                               {team.country} {team.league ? `• ${team.league}` : ''}
                             </span>
                           </div>
@@ -702,14 +713,14 @@ export default function App() {
           {/* PHASE 4: ACTIVE ROUND (25s Speed Guessing) */}
           {roomState.status === 'ROUND_ACTIVE' && (
             <div className="active-arena glass-panel scale-up">
-              <div className="teams-vs-row" style={{ gap: '20px' }}>
-                <div className="vs-club-card" style={{ padding: '16px' }}>
-                  <span className="vs-club-name" style={{ fontSize: '1.3rem' }}>{roomState.team1?.name}</span>
+              <div className="teams-vs-row compact">
+                <div className="vs-club-card">
+                  <span className="vs-club-name">{roomState.team1?.name}</span>
                   <span className="vs-club-country">{roomState.team1?.country}</span>
                 </div>
-                <div className="vs-badge-circle" style={{ width: 44, height: 44, fontSize: '1.1rem' }}>VS</div>
-                <div className="vs-club-card" style={{ padding: '16px' }}>
-                  <span className="vs-club-name" style={{ fontSize: '1.3rem' }}>{roomState.team2?.name}</span>
+                <div className="vs-badge-circle">VS</div>
+                <div className="vs-club-card">
+                  <span className="vs-club-name">{roomState.team2?.name}</span>
                   <span className="vs-club-country">{roomState.team2?.country}</span>
                 </div>
               </div>
@@ -737,7 +748,7 @@ export default function App() {
                 </div>
               )}
 
-              <div style={{ textAlign: 'center', color: 'var(--text-dim)', fontSize: '0.85rem' }}>
+              <div className="guess-hint">
                 💡 İpucu: Tam isim veya yalnızca bilinen soyadını (örneğin: Sneijder, Batshuayi, Arda Turan) yazabilirsiniz.
               </div>
             </div>
@@ -751,7 +762,7 @@ export default function App() {
                   <div className="winner-banner-badge" style={{ borderColor: 'var(--accent-gold)', color: 'var(--accent-gold)' }}>
                     ⏱️ Süre Doldu!
                   </div>
-                  <h3 style={{ fontSize: '1.8rem', fontWeight: 800 }}>Kimse Bilemedi!</h3>
+                  <h3 className="draw-title">Kimse Bilemedi!</h3>
                 </>
               ) : (
                 <>
@@ -791,7 +802,7 @@ export default function App() {
                 ŞAMPİYON BELLİ OLDU!
               </div>
 
-              <h2 style={{ fontSize: '2.6rem', fontWeight: 900 }}>
+              <h2 className="champion-title">
                 🏆 {roomState.players.find(p => p.score >= roomState.target_score)?.name} KAZANDI!
               </h2>
 

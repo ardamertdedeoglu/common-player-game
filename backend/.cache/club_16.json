@@ -1,0 +1,7710 @@
+{
+  "id": "16",
+  "name": "Borussia Dortmund",
+  "slug": "borussia-dortmund",
+  "total_players": 578,
+  "players": {
+    "990148": {
+      "id": "990148",
+      "name": "Konstantinos Karetsas",
+      "profile_url": "https://www.transfermarkt.com/konstantinos-karetsas/profil/spieler/990148",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "628331": {
+      "id": "628331",
+      "name": "Giannis Konstantelias",
+      "profile_url": "https://www.transfermarkt.com/giannis-konstantelias/profil/spieler/628331",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "408574": {
+      "id": "408574",
+      "name": "Joey Veerman",
+      "profile_url": "https://www.transfermarkt.com/joey-veerman/profil/spieler/408574",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1075577": {
+      "id": "1075577",
+      "name": "Joane Gadou",
+      "profile_url": "https://www.transfermarkt.com/joane-gadou/profil/spieler/1075577",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1275068": {
+      "id": "1275068",
+      "name": "Kauã Prates",
+      "profile_url": "https://www.transfermarkt.com/kaua-prates/profil/spieler/1275068",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1185507": {
+      "id": "1185507",
+      "name": "Justin Lerma",
+      "profile_url": "https://www.transfermarkt.com/justin-lerma/profil/spieler/1185507",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "890719": {
+      "id": "890719",
+      "name": "Ethan Nwaneri",
+      "profile_url": "https://www.transfermarkt.com/ethan-nwaneri/profil/spieler/890719",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1141179": {
+      "id": "1141179",
+      "name": "Mussa Kaba",
+      "profile_url": "https://www.transfermarkt.com/mussa-kaba/profil/spieler/1141179",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1058359": {
+      "id": "1058359",
+      "name": "Samuele Inácio",
+      "profile_url": "https://www.transfermarkt.com/samuele-inacio/profil/spieler/1058359",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1193849": {
+      "id": "1193849",
+      "name": "Mathis Albert",
+      "profile_url": "https://www.transfermarkt.com/mathis-albert/profil/spieler/1193849",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "1311594": {
+      "id": "1311594",
+      "name": "Enzo dos Santos",
+      "profile_url": "https://www.transfermarkt.com/enzo-dos-santos/profil/spieler/1311594",
+      "seasons": [
+        "26/27",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 26/27"
+      ]
+    },
+    "496094": {
+      "id": "496094",
+      "name": "Karim Adeyemi",
+      "profile_url": "https://www.transfermarkt.com/karim-adeyemi/profil/spieler/496094",
+      "seasons": [
+        "22/23",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 22/23"
+      ]
+    },
+    "866579": {
+      "id": "866579",
+      "name": "Cole Campbell",
+      "profile_url": "https://www.transfermarkt.com/cole-campbell/profil/spieler/866579",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Ayrılış 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "819215": {
+      "id": "819215",
+      "name": "Julien Duranville",
+      "profile_url": "https://www.transfermarkt.com/julien-duranville/profil/spieler/819215",
+      "seasons": [
+        "22/23",
+        "25/26",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Ayrılış 25/26",
+        "Geliş 22/23"
+      ]
+    },
+    "627228": {
+      "id": "627228",
+      "name": "Yan Couto",
+      "profile_url": "https://www.transfermarkt.com/yan-couto/profil/spieler/627228",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "884810": {
+      "id": "884810",
+      "name": "Kjell Wätjen",
+      "profile_url": "https://www.transfermarkt.com/kjell-watjen/profil/spieler/884810",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Ayrılış 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "187492": {
+      "id": "187492",
+      "name": "Julian Brandt",
+      "profile_url": "https://www.transfermarkt.com/julian-brandt/profil/spieler/187492",
+      "seasons": [
+        "19/20",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 19/20"
+      ]
+    },
+    "166601": {
+      "id": "166601",
+      "name": "Niklas Süle",
+      "profile_url": "https://www.transfermarkt.com/niklas-sule/profil/spieler/166601",
+      "seasons": [
+        "22/23",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 22/23"
+      ]
+    },
+    "244940": {
+      "id": "244940",
+      "name": "Salih Özcan",
+      "profile_url": "https://www.transfermarkt.com/salih-ozcan/profil/spieler/244940",
+      "seasons": [
+        "22/23",
+        "24/25",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 24/25",
+        "Ayrılış 24/25",
+        "Geliş 22/23"
+      ]
+    },
+    "884820": {
+      "id": "884820",
+      "name": "Almugera Kabar",
+      "profile_url": "https://www.transfermarkt.com/almugera-kabar/profil/spieler/884820",
+      "seasons": [
+        "24/25",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Geliş 24/25"
+      ]
+    },
+    "448705": {
+      "id": "448705",
+      "name": "Diant Ramaj",
+      "profile_url": "https://www.transfermarkt.com/diant-ramaj/profil/spieler/448705",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "26/27"
+      ],
+      "transfers": [
+        "Ayrılış 26/27",
+        "Ayrılış 25/26",
+        "Geliş 24/25",
+        "Ayrılış 24/25"
+      ]
+    },
+    "796297": {
+      "id": "796297",
+      "name": "Jobe Bellingham",
+      "profile_url": "https://www.transfermarkt.com/jobe-bellingham/profil/spieler/796297",
+      "seasons": [
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26"
+      ]
+    },
+    "505653": {
+      "id": "505653",
+      "name": "Fábio Silva",
+      "profile_url": "https://www.transfermarkt.com/fabio-silva/profil/spieler/505653",
+      "seasons": [
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26"
+      ]
+    },
+    "659459": {
+      "id": "659459",
+      "name": "Carney Chukwuemeka",
+      "profile_url": "https://www.transfermarkt.com/carney-chukwuemeka/profil/spieler/659459",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26",
+        "Ayrılış 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "579287": {
+      "id": "579287",
+      "name": "Daniel Svensson",
+      "profile_url": "https://www.transfermarkt.com/daniel-svensson/profil/spieler/579287",
+      "seasons": [
+        "24/25",
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "94192": {
+      "id": "94192",
+      "name": "Patrick Drewes",
+      "profile_url": "https://www.transfermarkt.com/patrick-drewes/profil/spieler/94192",
+      "seasons": [
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26"
+      ]
+    },
+    "1145504": {
+      "id": "1145504",
+      "name": "Aarón Anselmino",
+      "profile_url": "https://www.transfermarkt.com/aaron-anselmino/profil/spieler/1145504",
+      "seasons": [
+        "25/26"
+      ],
+      "transfers": [
+        "Geliş 25/26",
+        "Ayrılış 25/26"
+      ]
+    },
+    "1074990": {
+      "id": "1074990",
+      "name": "Luca Reggiani",
+      "profile_url": "https://www.transfermarkt.com/luca-reggiani/profil/spieler/1074990",
+      "seasons": [
+        "25/26",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 25/26"
+      ]
+    },
+    "670882": {
+      "id": "670882",
+      "name": "Jamie Gittens",
+      "profile_url": "https://www.transfermarkt.com/jamie-gittens/profil/spieler/670882",
+      "seasons": [
+        "22/23",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Geliş 22/23"
+      ]
+    },
+    "659513": {
+      "id": "659513",
+      "name": "Soumaïla Coulibaly",
+      "profile_url": "https://www.transfermarkt.com/soumaila-coulibaly/profil/spieler/659513",
+      "seasons": [
+        "21/22",
+        "23/24",
+        "24/25",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Ayrılış 24/25",
+        "Ayrılış 23/24",
+        "Geliş 21/22"
+      ]
+    },
+    "467720": {
+      "id": "467720",
+      "name": "Youssoufa Moukoko",
+      "profile_url": "https://www.transfermarkt.com/youssoufa-moukoko/profil/spieler/467720",
+      "seasons": [
+        "20/21",
+        "24/25",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Ayrılış 24/25",
+        "Geliş 20/21"
+      ]
+    },
+    "504215": {
+      "id": "504215",
+      "name": "Giovanni Reyna",
+      "profile_url": "https://www.transfermarkt.com/giovanni-reyna/profil/spieler/504215",
+      "seasons": [
+        "19/20",
+        "23/24",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Ayrılış 23/24",
+        "Geliş 19/20"
+      ]
+    },
+    "82873": {
+      "id": "82873",
+      "name": "Pascal Groß",
+      "profile_url": "https://www.transfermarkt.com/pascal-gross/profil/spieler/82873",
+      "seasons": [
+        "24/25",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Geliş 24/25"
+      ]
+    },
+    "453737": {
+      "id": "453737",
+      "name": "Marcel Lotka",
+      "profile_url": "https://www.transfermarkt.com/marcel-lotka/profil/spieler/453737",
+      "seasons": [
+        "22/23",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Geliş 22/23"
+      ]
+    },
+    "181375": {
+      "id": "181375",
+      "name": "Sébastien Haller",
+      "profile_url": "https://www.transfermarkt.com/sebastien-haller/profil/spieler/181375",
+      "seasons": [
+        "22/23",
+        "24/25",
+        "25/26"
+      ],
+      "transfers": [
+        "Ayrılış 25/26",
+        "Geliş 24/25",
+        "Ayrılış 24/25",
+        "Geliş 22/23"
+      ]
+    },
+    "578392": {
+      "id": "578392",
+      "name": "Maximilian Beier",
+      "profile_url": "https://www.transfermarkt.com/maximilian-beier/profil/spieler/578392",
+      "seasons": [
+        "24/25",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 24/25"
+      ]
+    },
+    "193004": {
+      "id": "193004",
+      "name": "Waldemar Anton",
+      "profile_url": "https://www.transfermarkt.com/waldemar-anton/profil/spieler/193004",
+      "seasons": [
+        "24/25",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 24/25"
+      ]
+    },
+    "270541": {
+      "id": "270541",
+      "name": "Serhou Guirassy",
+      "profile_url": "https://www.transfermarkt.com/serhou-guirassy/profil/spieler/270541",
+      "seasons": [
+        "24/25",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 24/25"
+      ]
+    },
+    "684116": {
+      "id": "684116",
+      "name": "Silas Ostrzinski",
+      "profile_url": "https://www.transfermarkt.com/silas-ostrzinski/profil/spieler/684116",
+      "seasons": [
+        "24/25",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 24/25"
+      ]
+    },
+    "883007": {
+      "id": "883007",
+      "name": "Filippo Mane",
+      "profile_url": "https://www.transfermarkt.com/filippo-mane/profil/spieler/883007",
+      "seasons": [
+        "24/25",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 24/25"
+      ]
+    },
+    "75489": {
+      "id": "75489",
+      "name": "Niclas Füllkrug",
+      "profile_url": "https://www.transfermarkt.com/niclas-fullkrug/profil/spieler/75489",
+      "seasons": [
+        "23/24",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 23/24"
+      ]
+    },
+    "326029": {
+      "id": "326029",
+      "name": "Donyell Malen",
+      "profile_url": "https://www.transfermarkt.com/donyell-malen/profil/spieler/326029",
+      "seasons": [
+        "21/22",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 21/22"
+      ]
+    },
+    "798043": {
+      "id": "798043",
+      "name": "Tom Rothe",
+      "profile_url": "https://www.transfermarkt.com/tom-rothe/profil/spieler/798043",
+      "seasons": [
+        "22/23",
+        "23/24",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Ayrılış 23/24",
+        "Geliş 22/23"
+      ]
+    },
+    "405690": {
+      "id": "405690",
+      "name": "Ole Pohlmann",
+      "profile_url": "https://www.transfermarkt.com/ole-pohlmann/profil/spieler/405690",
+      "seasons": [
+        "23/24",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 23/24"
+      ]
+    },
+    "388513": {
+      "id": "388513",
+      "name": "Mateu Morey",
+      "profile_url": "https://www.transfermarkt.com/mateu-morey/profil/spieler/388513",
+      "seasons": [
+        "19/20",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 19/20"
+      ]
+    },
+    "193900": {
+      "id": "193900",
+      "name": "Marius Wolf",
+      "profile_url": "https://www.transfermarkt.com/marius-wolf/profil/spieler/193900",
+      "seasons": [
+        "18/19",
+        "19/20",
+        "20/21",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Ayrılış 20/21",
+        "Ayrılış 19/20",
+        "Geliş 18/19"
+      ]
+    },
+    "35207": {
+      "id": "35207",
+      "name": "Marco Reus",
+      "profile_url": "https://www.transfermarkt.com/marco-reus/profil/spieler/35207",
+      "seasons": [
+        "12/13",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 12/13"
+      ]
+    },
+    "39728": {
+      "id": "39728",
+      "name": "Mats Hummels",
+      "profile_url": "https://www.transfermarkt.com/mats-hummels/profil/spieler/39728",
+      "seasons": [
+        "07/08",
+        "09/10",
+        "16/17",
+        "19/20",
+        "24/25"
+      ],
+      "transfers": [
+        "Ayrılış 24/25",
+        "Geliş 19/20",
+        "Ayrılış 16/17",
+        "Geliş 09/10",
+        "Geliş 07/08"
+      ]
+    },
+    "406640": {
+      "id": "406640",
+      "name": "Felix Nmecha",
+      "profile_url": "https://www.transfermarkt.com/felix-nmecha/profil/spieler/406640",
+      "seasons": [
+        "23/24",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 23/24"
+      ]
+    },
+    "106987": {
+      "id": "106987",
+      "name": "Marcel Sabitzer",
+      "profile_url": "https://www.transfermarkt.com/marcel-sabitzer/profil/spieler/106987",
+      "seasons": [
+        "23/24",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 23/24"
+      ]
+    },
+    "485585": {
+      "id": "485585",
+      "name": "Ian Maatsen",
+      "profile_url": "https://www.transfermarkt.com/ian-maatsen/profil/spieler/485585",
+      "seasons": [
+        "23/24"
+      ],
+      "transfers": [
+        "Geliş 23/24"
+      ]
+    },
+    "284732": {
+      "id": "284732",
+      "name": "Ramy Bensebaini",
+      "profile_url": "https://www.transfermarkt.com/ramy-bensebaini/profil/spieler/284732",
+      "seasons": [
+        "23/24",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 23/24"
+      ]
+    },
+    "401173": {
+      "id": "401173",
+      "name": "Jadon Sancho",
+      "profile_url": "https://www.transfermarkt.com/jadon-sancho/profil/spieler/401173",
+      "seasons": [
+        "17/18",
+        "21/22",
+        "23/24"
+      ],
+      "transfers": [
+        "Geliş 23/24",
+        "Ayrılış 21/22",
+        "Geliş 17/18"
+      ]
+    },
+    "581678": {
+      "id": "581678",
+      "name": "Jude Bellingham",
+      "profile_url": "https://www.transfermarkt.com/jude-bellingham/profil/spieler/581678",
+      "seasons": [
+        "20/21",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 20/21"
+      ]
+    },
+    "429874": {
+      "id": "429874",
+      "name": "Ansgar Knauff",
+      "profile_url": "https://www.transfermarkt.com/ansgar-knauff/profil/spieler/429874",
+      "seasons": [
+        "21/22",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 21/22",
+        "Ayrılış 21/22"
+      ]
+    },
+    "102226": {
+      "id": "102226",
+      "name": "Thorgan Hazard",
+      "profile_url": "https://www.transfermarkt.com/thorgan-hazard/profil/spieler/102226",
+      "seasons": [
+        "19/20",
+        "22/23",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Ayrılış 22/23",
+        "Geliş 19/20"
+      ]
+    },
+    "100986": {
+      "id": "100986",
+      "name": "Thomas Meunier",
+      "profile_url": "https://www.transfermarkt.com/thomas-meunier/profil/spieler/100986",
+      "seasons": [
+        "20/21",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 20/21"
+      ]
+    },
+    "274461": {
+      "id": "274461",
+      "name": "Felix Passlack",
+      "profile_url": "https://www.transfermarkt.com/felix-passlack/profil/spieler/274461",
+      "seasons": [
+        "15/16",
+        "17/18",
+        "18/19",
+        "19/20",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Ayrılış 17/18",
+        "Geliş 15/16"
+      ]
+    },
+    "388815": {
+      "id": "388815",
+      "name": "Luca Unbehaun",
+      "profile_url": "https://www.transfermarkt.com/luca-unbehaun/profil/spieler/388815",
+      "seasons": [
+        "19/20",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 19/20"
+      ]
+    },
+    "191422": {
+      "id": "191422",
+      "name": "Mahmoud Dahoud",
+      "profile_url": "https://www.transfermarkt.com/mahmoud-dahoud/profil/spieler/191422",
+      "seasons": [
+        "17/18",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 17/18"
+      ]
+    },
+    "170986": {
+      "id": "170986",
+      "name": "Raphaël Guerreiro",
+      "profile_url": "https://www.transfermarkt.com/raphael-guerreiro/profil/spieler/170986",
+      "seasons": [
+        "16/17",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 16/17"
+      ]
+    },
+    "50512": {
+      "id": "50512",
+      "name": "Anthony Modeste",
+      "profile_url": "https://www.transfermarkt.com/anthony-modeste/profil/spieler/50512",
+      "seasons": [
+        "22/23",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 22/23"
+      ]
+    },
+    "85867": {
+      "id": "85867",
+      "name": "Nico Schulz",
+      "profile_url": "https://www.transfermarkt.com/nico-schulz/profil/spieler/85867",
+      "seasons": [
+        "19/20",
+        "23/24"
+      ],
+      "transfers": [
+        "Ayrılış 23/24",
+        "Geliş 19/20"
+      ]
+    },
+    "388198": {
+      "id": "388198",
+      "name": "Nico Schlotterbeck",
+      "profile_url": "https://www.transfermarkt.com/nico-schlotterbeck/profil/spieler/388198",
+      "seasons": [
+        "22/23",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 22/23"
+      ]
+    },
+    "370789": {
+      "id": "370789",
+      "name": "Julian Ryerson",
+      "profile_url": "https://www.transfermarkt.com/julian-ryerson/profil/spieler/370789",
+      "seasons": [
+        "22/23",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 22/23"
+      ]
+    },
+    "76158": {
+      "id": "76158",
+      "name": "Alexander Meyer",
+      "profile_url": "https://www.transfermarkt.com/alexander-meyer/profil/spieler/76158",
+      "seasons": [
+        "22/23",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 22/23"
+      ]
+    },
+    "418560": {
+      "id": "418560",
+      "name": "Erling Haaland",
+      "profile_url": "https://www.transfermarkt.com/erling-haaland/profil/spieler/418560",
+      "seasons": [
+        "19/20",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 19/20"
+      ]
+    },
+    "284730": {
+      "id": "284730",
+      "name": "Manuel Akanji",
+      "profile_url": "https://www.transfermarkt.com/manuel-akanji/profil/spieler/284730",
+      "seasons": [
+        "17/18",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 17/18"
+      ]
+    },
+    "296879": {
+      "id": "296879",
+      "name": "Steffen Tigges",
+      "profile_url": "https://www.transfermarkt.com/steffen-tigges/profil/spieler/296879",
+      "seasons": [
+        "20/21",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 20/21"
+      ]
+    },
+    "59027": {
+      "id": "59027",
+      "name": "Roman Bürki",
+      "profile_url": "https://www.transfermarkt.com/roman-burki/profil/spieler/59027",
+      "seasons": [
+        "15/16",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 15/16"
+      ]
+    },
+    "59238": {
+      "id": "59238",
+      "name": "Marwin Hitz",
+      "profile_url": "https://www.transfermarkt.com/marwin-hitz/profil/spieler/59238",
+      "seasons": [
+        "18/19",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 18/19"
+      ]
+    },
+    "35047": {
+      "id": "35047",
+      "name": "Axel Witsel",
+      "profile_url": "https://www.transfermarkt.com/axel-witsel/profil/spieler/35047",
+      "seasons": [
+        "18/19",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 18/19"
+      ]
+    },
+    "35208": {
+      "id": "35208",
+      "name": "Marcel Schmelzer",
+      "profile_url": "https://www.transfermarkt.com/marcel-schmelzer/profil/spieler/35208",
+      "seasons": [
+        "08/09",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 08/09"
+      ]
+    },
+    "344598": {
+      "id": "344598",
+      "name": "Dan-Axel Zagadou",
+      "profile_url": "https://www.transfermarkt.com/dan-axel-zagadou/profil/spieler/344598",
+      "seasons": [
+        "17/18",
+        "22/23"
+      ],
+      "transfers": [
+        "Ayrılış 22/23",
+        "Geliş 17/18"
+      ]
+    },
+    "257814": {
+      "id": "257814",
+      "name": "Gregor Kobel",
+      "profile_url": "https://www.transfermarkt.com/gregor-kobel/profil/spieler/257814",
+      "seasons": [
+        "21/22",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 21/22"
+      ]
+    },
+    "282144": {
+      "id": "282144",
+      "name": "Marin Pongracic",
+      "profile_url": "https://www.transfermarkt.com/marin-pongracic/profil/spieler/282144",
+      "seasons": [
+        "21/22"
+      ],
+      "transfers": [
+        "Geliş 21/22"
+      ]
+    },
+    "575998": {
+      "id": "575998",
+      "name": "Leonardo Balerdi",
+      "profile_url": "https://www.transfermarkt.com/leonardo-balerdi/profil/spieler/575998",
+      "seasons": [
+        "18/19",
+        "20/21",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Ayrılış 20/21",
+        "Geliş 18/19"
+      ]
+    },
+    "91849": {
+      "id": "91849",
+      "name": "Thomas Delaney",
+      "profile_url": "https://www.transfermarkt.com/thomas-delaney/profil/spieler/91849",
+      "seasons": [
+        "18/19",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Geliş 18/19"
+      ]
+    },
+    "129674": {
+      "id": "129674",
+      "name": "Jeremy Toljan",
+      "profile_url": "https://www.transfermarkt.com/jeremy-toljan/profil/spieler/129674",
+      "seasons": [
+        "17/18",
+        "18/19",
+        "19/20",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Geliş 17/18"
+      ]
+    },
+    "366930": {
+      "id": "366930",
+      "name": "Sergio Gómez",
+      "profile_url": "https://www.transfermarkt.com/sergio-gomez/profil/spieler/366930",
+      "seasons": [
+        "17/18",
+        "19/20",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Ayrılış 19/20",
+        "Geliş 17/18"
+      ]
+    },
+    "384745": {
+      "id": "384745",
+      "name": "Tobias Raschl",
+      "profile_url": "https://www.transfermarkt.com/tobias-raschl/profil/spieler/384745",
+      "seasons": [
+        "19/20",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Geliş 19/20"
+      ]
+    },
+    "25727": {
+      "id": "25727",
+      "name": "Lukasz Piszczek",
+      "profile_url": "https://www.transfermarkt.com/lukasz-piszczek/profil/spieler/25727",
+      "seasons": [
+        "10/11",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Geliş 10/11"
+      ]
+    },
+    "412935": {
+      "id": "412935",
+      "name": "Immanuel Pherai",
+      "profile_url": "https://www.transfermarkt.com/immanuel-pherai/profil/spieler/412935",
+      "seasons": [
+        "20/21",
+        "21/22"
+      ],
+      "transfers": [
+        "Ayrılış 21/22",
+        "Geliş 20/21",
+        "Ayrılış 20/21"
+      ]
+    },
+    "119296": {
+      "id": "119296",
+      "name": "Emre Can",
+      "profile_url": "https://www.transfermarkt.com/emre-can/profil/spieler/119296",
+      "seasons": [
+        "19/20",
+        "20/21",
+        "Mevcut Kadro"
+      ],
+      "transfers": [
+        "Geliş 20/21",
+        "Geliş 19/20"
+      ]
+    },
+    "627226": {
+      "id": "627226",
+      "name": "Reinier",
+      "profile_url": "https://www.transfermarkt.com/reinier/profil/spieler/627226",
+      "seasons": [
+        "20/21"
+      ],
+      "transfers": [
+        "Geliş 20/21"
+      ]
+    },
+    "43512": {
+      "id": "43512",
+      "name": "Ömer Toprak",
+      "profile_url": "https://www.transfermarkt.com/omer-toprak/profil/spieler/43512",
+      "seasons": [
+        "17/18",
+        "19/20",
+        "20/21"
+      ],
+      "transfers": [
+        "Ayrılış 20/21",
+        "Ayrılış 19/20",
+        "Geliş 17/18"
+      ]
+    },
+    "251295": {
+      "id": "251295",
+      "name": "Dzenis Burnic",
+      "profile_url": "https://www.transfermarkt.com/dzenis-burnic/profil/spieler/251295",
+      "seasons": [
+        "16/17",
+        "17/18",
+        "18/19",
+        "20/21"
+      ],
+      "transfers": [
+        "Ayrılış 20/21",
+        "Ayrılış 18/19",
+        "Ayrılış 17/18",
+        "Geliş 16/17"
+      ]
+    },
+    "152460": {
+      "id": "152460",
+      "name": "Eric Oelschlägel",
+      "profile_url": "https://www.transfermarkt.com/eric-oelschlagel/profil/spieler/152460",
+      "seasons": [
+        "18/19",
+        "20/21"
+      ],
+      "transfers": [
+        "Ayrılış 20/21",
+        "Geliş 18/19"
+      ]
+    },
+    "74842": {
+      "id": "74842",
+      "name": "Mario Götze",
+      "profile_url": "https://www.transfermarkt.com/mario-gotze/profil/spieler/74842",
+      "seasons": [
+        "10/11",
+        "13/14",
+        "16/17",
+        "20/21"
+      ],
+      "transfers": [
+        "Ayrılış 20/21",
+        "Geliş 16/17",
+        "Ayrılış 13/14",
+        "Geliş 10/11"
+      ]
+    },
+    "58205": {
+      "id": "58205",
+      "name": "André Schürrle",
+      "profile_url": "https://www.transfermarkt.com/andre-schurrle/profil/spieler/58205",
+      "seasons": [
+        "16/17",
+        "18/19",
+        "19/20",
+        "20/21"
+      ],
+      "transfers": [
+        "Ayrılış 20/21",
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Geliş 16/17"
+      ]
+    },
+    "126716": {
+      "id": "126716",
+      "name": "Paco Alcácer",
+      "profile_url": "https://www.transfermarkt.com/paco-alcacer/profil/spieler/126716",
+      "seasons": [
+        "18/19",
+        "19/20"
+      ],
+      "transfers": [
+        "Geliş 19/20",
+        "Ayrılış 19/20",
+        "Geliş 18/19"
+      ]
+    },
+    "229005": {
+      "id": "229005",
+      "name": "Abdou Diallo",
+      "profile_url": "https://www.transfermarkt.com/abdou-diallo/profil/spieler/229005",
+      "seasons": [
+        "18/19",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Geliş 18/19"
+      ]
+    },
+    "196792": {
+      "id": "196792",
+      "name": "Julian Weigl",
+      "profile_url": "https://www.transfermarkt.com/julian-weigl/profil/spieler/196792",
+      "seasons": [
+        "15/16",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Geliş 15/16"
+      ]
+    },
+    "143891": {
+      "id": "143891",
+      "name": "Maximilian Philipp",
+      "profile_url": "https://www.transfermarkt.com/maximilian-philipp/profil/spieler/143891",
+      "seasons": [
+        "17/18",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Geliş 17/18"
+      ]
+    },
+    "349066": {
+      "id": "349066",
+      "name": "Alexander Isak",
+      "profile_url": "https://www.transfermarkt.com/alexander-isak/profil/spieler/349066",
+      "seasons": [
+        "16/17",
+        "18/19",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Geliş 16/17"
+      ]
+    },
+    "293281": {
+      "id": "293281",
+      "name": "Jacob Bruun Larsen",
+      "profile_url": "https://www.transfermarkt.com/jacob-bruun-larsen/profil/spieler/293281",
+      "seasons": [
+        "17/18",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Geliş 17/18",
+        "Ayrılış 17/18"
+      ]
+    },
+    "44466": {
+      "id": "44466",
+      "name": "Sebastian Rode",
+      "profile_url": "https://www.transfermarkt.com/sebastian-rode/profil/spieler/44466",
+      "seasons": [
+        "16/17",
+        "18/19",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Geliş 16/17"
+      ]
+    },
+    "81785": {
+      "id": "81785",
+      "name": "Shinji Kagawa",
+      "profile_url": "https://www.transfermarkt.com/shinji-kagawa/profil/spieler/81785",
+      "seasons": [
+        "10/11",
+        "12/13",
+        "14/15",
+        "18/19",
+        "19/20"
+      ],
+      "transfers": [
+        "Ayrılış 19/20",
+        "Ayrılış 18/19",
+        "Geliş 14/15",
+        "Ayrılış 12/13",
+        "Geliş 10/11"
+      ]
+    },
+    "315779": {
+      "id": "315779",
+      "name": "Christian Pulisic",
+      "profile_url": "https://www.transfermarkt.com/christian-pulisic/profil/spieler/315779",
+      "seasons": [
+        "15/16",
+        "18/19"
+      ],
+      "transfers": [
+        "Geliş 18/19",
+        "Ayrılış 18/19",
+        "Geliş 15/16"
+      ]
+    },
+    "398073": {
+      "id": "398073",
+      "name": "Achraf Hakimi",
+      "profile_url": "https://www.transfermarkt.com/achraf-hakimi/profil/spieler/398073",
+      "seasons": [
+        "18/19"
+      ],
+      "transfers": [
+        "Geliş 18/19"
+      ]
+    },
+    "69015": {
+      "id": "69015",
+      "name": "Andriy Yarmolenko",
+      "profile_url": "https://www.transfermarkt.com/andriy-yarmolenko/profil/spieler/69015",
+      "seasons": [
+        "17/18",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 17/18"
+      ]
+    },
+    "34322": {
+      "id": "34322",
+      "name": "Sokratis Papastathopoulos",
+      "profile_url": "https://www.transfermarkt.com/sokratis-papastathopoulos/profil/spieler/34322",
+      "seasons": [
+        "13/14",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 13/14"
+      ]
+    },
+    "338424": {
+      "id": "338424",
+      "name": "Mikel Merino",
+      "profile_url": "https://www.transfermarkt.com/mikel-merino/profil/spieler/338424",
+      "seasons": [
+        "16/17",
+        "17/18",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Ayrılış 17/18",
+        "Geliş 16/17"
+      ]
+    },
+    "28947": {
+      "id": "28947",
+      "name": "Gonzalo Castro",
+      "profile_url": "https://www.transfermarkt.com/gonzalo-castro/profil/spieler/28947",
+      "seasons": [
+        "15/16",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 15/16"
+      ]
+    },
+    "31095": {
+      "id": "31095",
+      "name": "Nuri Şahin",
+      "profile_url": "https://www.transfermarkt.com/nuri-sahin/profil/spieler/31095",
+      "seasons": [
+        "05/06",
+        "07/08",
+        "11/12",
+        "12/13",
+        "14/15",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 14/15",
+        "Geliş 12/13",
+        "Ayrılış 11/12",
+        "Ayrılış 07/08",
+        "Geliş 05/06"
+      ]
+    },
+    "238722": {
+      "id": "238722",
+      "name": "Dominik Reimann",
+      "profile_url": "https://www.transfermarkt.com/dominik-reimann/profil/spieler/238722",
+      "seasons": [
+        "17/18",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 17/18"
+      ]
+    },
+    "93922": {
+      "id": "93922",
+      "name": "Erik Durm",
+      "profile_url": "https://www.transfermarkt.com/erik-durm/profil/spieler/93922",
+      "seasons": [
+        "13/14",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 13/14"
+      ]
+    },
+    "26": {
+      "id": "26",
+      "name": "Roman Weidenfeller",
+      "profile_url": "https://www.transfermarkt.com/roman-weidenfeller/profil/spieler/26",
+      "seasons": [
+        "02/03",
+        "18/19"
+      ],
+      "transfers": [
+        "Ayrılış 18/19",
+        "Geliş 02/03"
+      ]
+    },
+    "179184": {
+      "id": "179184",
+      "name": "Michy Batshuayi",
+      "profile_url": "https://www.transfermarkt.com/michy-batshuayi/profil/spieler/179184",
+      "seasons": [
+        "17/18"
+      ],
+      "transfers": [
+        "Geliş 17/18"
+      ]
+    },
+    "288230": {
+      "id": "288230",
+      "name": "Ousmane Dembélé",
+      "profile_url": "https://www.transfermarkt.com/ousmane-dembele/profil/spieler/288230",
+      "seasons": [
+        "16/17",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 16/17"
+      ]
+    },
+    "58864": {
+      "id": "58864",
+      "name": "Pierre-Emerick Aubameyang",
+      "profile_url": "https://www.transfermarkt.com/pierre-emerick-aubameyang/profil/spieler/58864",
+      "seasons": [
+        "13/14",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 13/14"
+      ]
+    },
+    "124502": {
+      "id": "124502",
+      "name": "Matthias Ginter",
+      "profile_url": "https://www.transfermarkt.com/matthias-ginter/profil/spieler/124502",
+      "seasons": [
+        "14/15",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 14/15"
+      ]
+    },
+    "283223": {
+      "id": "283223",
+      "name": "Emre Mor",
+      "profile_url": "https://www.transfermarkt.com/emre-mor/profil/spieler/283223",
+      "seasons": [
+        "16/17",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 16/17"
+      ]
+    },
+    "29993": {
+      "id": "29993",
+      "name": "Sven Bender",
+      "profile_url": "https://www.transfermarkt.com/sven-bender/profil/spieler/29993",
+      "seasons": [
+        "09/10",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 09/10"
+      ]
+    },
+    "73782": {
+      "id": "73782",
+      "name": "Adrián Ramos",
+      "profile_url": "https://www.transfermarkt.com/adrian-ramos/profil/spieler/73782",
+      "seasons": [
+        "14/15",
+        "16/17",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Ayrılış 16/17",
+        "Geliş 14/15"
+      ]
+    },
+    "99922": {
+      "id": "99922",
+      "name": "Marc Bartra",
+      "profile_url": "https://www.transfermarkt.com/marc-bartra/profil/spieler/99922",
+      "seasons": [
+        "16/17",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 16/17"
+      ]
+    },
+    "195246": {
+      "id": "195246",
+      "name": "Pascal Stenzel",
+      "profile_url": "https://www.transfermarkt.com/pascal-stenzel/profil/spieler/195246",
+      "seasons": [
+        "15/16",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 15/16",
+        "Ayrılış 15/16"
+      ]
+    },
+    "40995": {
+      "id": "40995",
+      "name": "Neven Subotic",
+      "profile_url": "https://www.transfermarkt.com/neven-subotic/profil/spieler/40995",
+      "seasons": [
+        "08/09",
+        "16/17",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Ayrılış 16/17",
+        "Geliş 08/09"
+      ]
+    },
+    "104220": {
+      "id": "104220",
+      "name": "Hendrik Bonmann",
+      "profile_url": "https://www.transfermarkt.com/hendrik-bonmann/profil/spieler/104220",
+      "seasons": [
+        "14/15",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 14/15"
+      ]
+    },
+    "111900": {
+      "id": "111900",
+      "name": "Ju-ho Park",
+      "profile_url": "https://www.transfermarkt.com/ju-ho-park/profil/spieler/111900",
+      "seasons": [
+        "15/16",
+        "17/18"
+      ],
+      "transfers": [
+        "Ayrılış 17/18",
+        "Geliş 15/16"
+      ]
+    },
+    "55735": {
+      "id": "55735",
+      "name": "Henrikh Mkhitaryan",
+      "profile_url": "https://www.transfermarkt.com/henrikh-mkhitaryan/profil/spieler/55735",
+      "seasons": [
+        "13/14",
+        "16/17"
+      ],
+      "transfers": [
+        "Ayrılış 16/17",
+        "Geliş 13/14"
+      ]
+    },
+    "53622": {
+      "id": "53622",
+      "name": "İlkay Gündoğan",
+      "profile_url": "https://www.transfermarkt.com/ilkay-gundogan/profil/spieler/53622",
+      "seasons": [
+        "11/12",
+        "16/17"
+      ],
+      "transfers": [
+        "Ayrılış 16/17",
+        "Geliş 11/12"
+      ]
+    },
+    "29835": {
+      "id": "29835",
+      "name": "Jakub Blaszczykowski",
+      "profile_url": "https://www.transfermarkt.com/jakub-blaszczykowski/profil/spieler/29835",
+      "seasons": [
+        "07/08",
+        "15/16",
+        "16/17"
+      ],
+      "transfers": [
+        "Ayrılış 16/17",
+        "Ayrılış 15/16",
+        "Geliş 07/08"
+      ]
+    },
+    "82243": {
+      "id": "82243",
+      "name": "Moritz Leitner",
+      "profile_url": "https://www.transfermarkt.com/moritz-leitner/profil/spieler/82243",
+      "seasons": [
+        "10/11",
+        "13/14",
+        "16/17"
+      ],
+      "transfers": [
+        "Ayrılış 16/17",
+        "Ayrılış 13/14",
+        "Geliş 10/11",
+        "Ayrılış 10/11"
+      ]
+    },
+    "189691": {
+      "id": "189691",
+      "name": "Jannik Bandowski",
+      "profile_url": "https://www.transfermarkt.com/jannik-bandowski/profil/spieler/189691",
+      "seasons": [
+        "13/14",
+        "14/15",
+        "16/17"
+      ],
+      "transfers": [
+        "Ayrılış 16/17",
+        "Ayrılış 14/15",
+        "Geliş 13/14"
+      ]
+    },
+    "177847": {
+      "id": "177847",
+      "name": "Adnan Januzaj",
+      "profile_url": "https://www.transfermarkt.com/adnan-januzaj/profil/spieler/177847",
+      "seasons": [
+        "15/16"
+      ],
+      "transfers": [
+        "Geliş 15/16",
+        "Ayrılış 15/16"
+      ]
+    },
+    "105521": {
+      "id": "105521",
+      "name": "Ciro Immobile",
+      "profile_url": "https://www.transfermarkt.com/ciro-immobile/profil/spieler/105521",
+      "seasons": [
+        "14/15",
+        "15/16"
+      ],
+      "transfers": [
+        "Geliş 15/16",
+        "Ayrılış 15/16",
+        "Geliş 14/15"
+      ]
+    },
+    "53418": {
+      "id": "53418",
+      "name": "Kevin Kampl",
+      "profile_url": "https://www.transfermarkt.com/kevin-kampl/profil/spieler/53418",
+      "seasons": [
+        "14/15",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 14/15"
+      ]
+    },
+    "7161": {
+      "id": "7161",
+      "name": "Jonas Hofmann",
+      "profile_url": "https://www.transfermarkt.com/jonas-hofmann/profil/spieler/7161",
+      "seasons": [
+        "13/14",
+        "14/15",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Ayrılış 14/15",
+        "Geliş 13/14"
+      ]
+    },
+    "49347": {
+      "id": "49347",
+      "name": "Mitchell Langerak",
+      "profile_url": "https://www.transfermarkt.com/mitchell-langerak/profil/spieler/49347",
+      "seasons": [
+        "10/11",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 10/11"
+      ]
+    },
+    "160285": {
+      "id": "160285",
+      "name": "Milos Jojic",
+      "profile_url": "https://www.transfermarkt.com/milos-jojic/profil/spieler/160285",
+      "seasons": [
+        "13/14",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 13/14"
+      ]
+    },
+    "44521": {
+      "id": "44521",
+      "name": "Kevin Großkreutz",
+      "profile_url": "https://www.transfermarkt.com/kevin-grosskreutz/profil/spieler/44521",
+      "seasons": [
+        "09/10",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 09/10"
+      ]
+    },
+    "147359": {
+      "id": "147359",
+      "name": "Jeremy Dudziak",
+      "profile_url": "https://www.transfermarkt.com/jeremy-dudziak/profil/spieler/147359",
+      "seasons": [
+        "14/15",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 14/15"
+      ]
+    },
+    "47594": {
+      "id": "47594",
+      "name": "Zlatan Alomerovic",
+      "profile_url": "https://www.transfermarkt.com/zlatan-alomerovic/profil/spieler/47594",
+      "seasons": [
+        "12/13",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 12/13"
+      ]
+    },
+    "2150": {
+      "id": "2150",
+      "name": "Oliver Kirch",
+      "profile_url": "https://www.transfermarkt.com/oliver-kirch/profil/spieler/2150",
+      "seasons": [
+        "12/13",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 12/13"
+      ]
+    },
+    "410": {
+      "id": "410",
+      "name": "Sebastian Kehl",
+      "profile_url": "https://www.transfermarkt.com/sebastian-kehl/profil/spieler/410",
+      "seasons": [
+        "01/02",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 01/02"
+      ]
+    },
+    "148208": {
+      "id": "148208",
+      "name": "Marian Sarr",
+      "profile_url": "https://www.transfermarkt.com/marian-sarr/profil/spieler/148208",
+      "seasons": [
+        "13/14",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Geliş 13/14"
+      ]
+    },
+    "125103": {
+      "id": "125103",
+      "name": "Marvin Ducksch",
+      "profile_url": "https://www.transfermarkt.com/marvin-ducksch/profil/spieler/125103",
+      "seasons": [
+        "13/14",
+        "14/15",
+        "15/16"
+      ],
+      "transfers": [
+        "Ayrılış 15/16",
+        "Ayrılış 14/15",
+        "Geliş 13/14"
+      ]
+    },
+    "164265": {
+      "id": "164265",
+      "name": "Dong-won Ji",
+      "profile_url": "https://www.transfermarkt.com/dong-won-ji/profil/spieler/164265",
+      "seasons": [
+        "14/15"
+      ],
+      "transfers": [
+        "Geliş 14/15",
+        "Ayrılış 14/15"
+      ]
+    },
+    "58124": {
+      "id": "58124",
+      "name": "Julian Schieber",
+      "profile_url": "https://www.transfermarkt.com/julian-schieber/profil/spieler/58124",
+      "seasons": [
+        "12/13",
+        "14/15"
+      ],
+      "transfers": [
+        "Ayrılış 14/15",
+        "Geliş 12/13"
+      ]
+    },
+    "38253": {
+      "id": "38253",
+      "name": "Robert Lewandowski",
+      "profile_url": "https://www.transfermarkt.com/robert-lewandowski/profil/spieler/38253",
+      "seasons": [
+        "10/11",
+        "14/15"
+      ],
+      "transfers": [
+        "Ayrılış 14/15",
+        "Geliş 10/11"
+      ]
+    },
+    "1073": {
+      "id": "1073",
+      "name": "Manuel Friedrich",
+      "profile_url": "https://www.transfermarkt.com/manuel-friedrich/profil/spieler/1073",
+      "seasons": [
+        "13/14",
+        "14/15"
+      ],
+      "transfers": [
+        "Ayrılış 14/15",
+        "Geliş 13/14"
+      ]
+    },
+    "93844": {
+      "id": "93844",
+      "name": "Leonardo Bittencourt",
+      "profile_url": "https://www.transfermarkt.com/leonardo-bittencourt/profil/spieler/93844",
+      "seasons": [
+        "12/13",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Geliş 12/13"
+      ]
+    },
+    "115763": {
+      "id": "115763",
+      "name": "Koray Günter",
+      "profile_url": "https://www.transfermarkt.com/koray-gunter/profil/spieler/115763",
+      "seasons": [
+        "12/13",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Geliş 12/13"
+      ]
+    },
+    "79501": {
+      "id": "79501",
+      "name": "Daniel Ginczek",
+      "profile_url": "https://www.transfermarkt.com/daniel-ginczek/profil/spieler/79501",
+      "seasons": [
+        "10/11",
+        "11/12",
+        "12/13",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Ayrılış 12/13",
+        "Ayrılış 11/12",
+        "Geliş 10/11"
+      ]
+    },
+    "79503": {
+      "id": "79503",
+      "name": "Lasse Sobiech",
+      "profile_url": "https://www.transfermarkt.com/lasse-sobiech/profil/spieler/79503",
+      "seasons": [
+        "10/11",
+        "11/12",
+        "12/13",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Ayrılış 12/13",
+        "Ayrılış 11/12",
+        "Geliş 10/11"
+      ]
+    },
+    "54312": {
+      "id": "54312",
+      "name": "Felipe Santana",
+      "profile_url": "https://www.transfermarkt.com/felipe-santana/profil/spieler/54312",
+      "seasons": [
+        "08/09",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Geliş 08/09"
+      ]
+    },
+    "53534": {
+      "id": "53534",
+      "name": "Julian Koch",
+      "profile_url": "https://www.transfermarkt.com/julian-koch/profil/spieler/53534",
+      "seasons": [
+        "09/10",
+        "10/11",
+        "12/13",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Ayrılış 12/13",
+        "Ayrılış 10/11",
+        "Geliş 09/10"
+      ]
+    },
+    "53602": {
+      "id": "53602",
+      "name": "Marvin Bakalorz",
+      "profile_url": "https://www.transfermarkt.com/marvin-bakalorz/profil/spieler/53602",
+      "seasons": [
+        "11/12",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Geliş 11/12"
+      ]
+    },
+    "2374": {
+      "id": "2374",
+      "name": "Patrick Owomoyela",
+      "profile_url": "https://www.transfermarkt.com/patrick-owomoyela/profil/spieler/2374",
+      "seasons": [
+        "08/09",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Geliş 08/09"
+      ]
+    },
+    "45685": {
+      "id": "45685",
+      "name": "Marc Hornschuh",
+      "profile_url": "https://www.transfermarkt.com/marc-hornschuh/profil/spieler/45685",
+      "seasons": [
+        "09/10",
+        "11/12",
+        "13/14"
+      ],
+      "transfers": [
+        "Ayrılış 13/14",
+        "Ayrılış 11/12",
+        "Geliş 09/10"
+      ]
+    },
+    "58516": {
+      "id": "58516",
+      "name": "Lucas Barrios",
+      "profile_url": "https://www.transfermarkt.com/lucas-barrios/profil/spieler/58516",
+      "seasons": [
+        "09/10",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Geliş 09/10"
+      ]
+    },
+    "42460": {
+      "id": "42460",
+      "name": "Ivan Perisic",
+      "profile_url": "https://www.transfermarkt.com/ivan-perisic/profil/spieler/42460",
+      "seasons": [
+        "11/12",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Geliş 11/12"
+      ]
+    },
+    "55125": {
+      "id": "55125",
+      "name": "Chris Löwe",
+      "profile_url": "https://www.transfermarkt.com/chris-lowe/profil/spieler/55125",
+      "seasons": [
+        "11/12",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Geliş 11/12"
+      ]
+    },
+    "39912": {
+      "id": "39912",
+      "name": "Dimitar Rangelov",
+      "profile_url": "https://www.transfermarkt.com/dimitar-rangelov/profil/spieler/39912",
+      "seasons": [
+        "09/10",
+        "10/11",
+        "11/12",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Ayrılış 11/12",
+        "Ayrılış 10/11",
+        "Geliş 09/10"
+      ]
+    },
+    "45760": {
+      "id": "45760",
+      "name": "Marco Stiepermann",
+      "profile_url": "https://www.transfermarkt.com/marco-stiepermann/profil/spieler/45760",
+      "seasons": [
+        "10/11",
+        "11/12",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Ayrılış 11/12",
+        "Geliş 10/11"
+      ]
+    },
+    "47597": {
+      "id": "47597",
+      "name": "Johannes Focher",
+      "profile_url": "https://www.transfermarkt.com/johannes-focher/profil/spieler/47597",
+      "seasons": [
+        "10/11",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Geliş 10/11"
+      ]
+    },
+    "1270": {
+      "id": "1270",
+      "name": "Florian Kringe",
+      "profile_url": "https://www.transfermarkt.com/florian-kringe/profil/spieler/1270",
+      "seasons": [
+        "01/02",
+        "02/03",
+        "09/10",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Ayrılış 09/10",
+        "Ayrılış 02/03",
+        "Geliş 01/02"
+      ]
+    },
+    "1919": {
+      "id": "1919",
+      "name": "Antônio da Silva",
+      "profile_url": "https://www.transfermarkt.com/antonio-da-silva/profil/spieler/1919",
+      "seasons": [
+        "10/11",
+        "12/13"
+      ],
+      "transfers": [
+        "Ayrılış 12/13",
+        "Geliş 10/11"
+      ]
+    },
+    "264": {
+      "id": "264",
+      "name": "Tamás Hajnal",
+      "profile_url": "https://www.transfermarkt.com/tamas-hajnal/profil/spieler/264",
+      "seasons": [
+        "08/09",
+        "10/11",
+        "11/12"
+      ],
+      "transfers": [
+        "Ayrılış 11/12",
+        "Ayrılış 10/11",
+        "Geliş 08/09"
+      ]
+    },
+    "17275": {
+      "id": "17275",
+      "name": "Mohamed Zidan",
+      "profile_url": "https://www.transfermarkt.com/mohamed-zidan/profil/spieler/17275",
+      "seasons": [
+        "08/09",
+        "11/12"
+      ],
+      "transfers": [
+        "Ayrılış 11/12",
+        "Geliş 08/09"
+      ]
+    },
+    "1986": {
+      "id": "1986",
+      "name": "Markus Feulner",
+      "profile_url": "https://www.transfermarkt.com/markus-feulner/profil/spieler/1986",
+      "seasons": [
+        "09/10",
+        "11/12"
+      ],
+      "transfers": [
+        "Ayrılış 11/12",
+        "Geliş 09/10"
+      ]
+    },
+    "59950": {
+      "id": "59950",
+      "name": "Damien Le Tallec",
+      "profile_url": "https://www.transfermarkt.com/damien-le-tallec/profil/spieler/59950",
+      "seasons": [
+        "09/10",
+        "11/12"
+      ],
+      "transfers": [
+        "Ayrılış 11/12",
+        "Geliş 09/10"
+      ]
+    },
+    "109": {
+      "id": "109",
+      "name": "Dedê",
+      "profile_url": "https://www.transfermarkt.com/dede/profil/spieler/109",
+      "seasons": [
+        "11/12",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 11/12",
+        "Geliş 98/99"
+      ]
+    },
+    "2050": {
+      "id": "2050",
+      "name": "Nelson Valdez",
+      "profile_url": "https://www.transfermarkt.com/nelson-valdez/profil/spieler/2050",
+      "seasons": [
+        "06/07",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 06/07"
+      ]
+    },
+    "162": {
+      "id": "162",
+      "name": "Marc Ziegler",
+      "profile_url": "https://www.transfermarkt.com/marc-ziegler/profil/spieler/162",
+      "seasons": [
+        "07/08",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 07/08"
+      ]
+    },
+    "10503": {
+      "id": "10503",
+      "name": "Uwe Hünemeier",
+      "profile_url": "https://www.transfermarkt.com/uwe-hunemeier/profil/spieler/10503",
+      "seasons": [
+        "06/07",
+        "07/08",
+        "08/09",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 08/09",
+        "Ayrılış 07/08",
+        "Geliş 06/07"
+      ]
+    },
+    "31867": {
+      "id": "31867",
+      "name": "Yasin Öztekin",
+      "profile_url": "https://www.transfermarkt.com/yasin-oztekin/profil/spieler/31867",
+      "seasons": [
+        "09/10",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 09/10"
+      ]
+    },
+    "15978": {
+      "id": "15978",
+      "name": "Tinga",
+      "profile_url": "https://www.transfermarkt.com/tinga/profil/spieler/15978",
+      "seasons": [
+        "06/07",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 06/07"
+      ]
+    },
+    "40462": {
+      "id": "40462",
+      "name": "Marcel Höttecke",
+      "profile_url": "https://www.transfermarkt.com/marcel-hottecke/profil/spieler/40462",
+      "seasons": [
+        "06/07",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 06/07"
+      ]
+    },
+    "43775": {
+      "id": "43775",
+      "name": "Bajram Sadrijaj",
+      "profile_url": "https://www.transfermarkt.com/bajram-sadrijaj/profil/spieler/43775",
+      "seasons": [
+        "08/09",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 08/09"
+      ]
+    },
+    "31206": {
+      "id": "31206",
+      "name": "Christopher Kullmann",
+      "profile_url": "https://www.transfermarkt.com/christopher-kullmann/profil/spieler/31206",
+      "seasons": [
+        "09/10",
+        "10/11"
+      ],
+      "transfers": [
+        "Ayrılış 10/11",
+        "Geliş 09/10"
+      ]
+    },
+    "4977": {
+      "id": "4977",
+      "name": "Alex Frei",
+      "profile_url": "https://www.transfermarkt.com/alex-frei/profil/spieler/4977",
+      "seasons": [
+        "06/07",
+        "09/10"
+      ],
+      "transfers": [
+        "Ayrılış 09/10",
+        "Geliş 06/07"
+      ]
+    },
+    "27924": {
+      "id": "27924",
+      "name": "Antonio Rukavina",
+      "profile_url": "https://www.transfermarkt.com/antonio-rukavina/profil/spieler/27924",
+      "seasons": [
+        "07/08",
+        "08/09",
+        "09/10"
+      ],
+      "transfers": [
+        "Ayrılış 09/10",
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "6555": {
+      "id": "6555",
+      "name": "Markus Brzenska",
+      "profile_url": "https://www.transfermarkt.com/markus-brzenska/profil/spieler/6555",
+      "seasons": [
+        "04/05",
+        "08/09",
+        "09/10"
+      ],
+      "transfers": [
+        "Ayrılış 09/10",
+        "Ayrılış 08/09",
+        "Geliş 04/05"
+      ]
+    },
+    "6156": {
+      "id": "6156",
+      "name": "Young-pyo Lee",
+      "profile_url": "https://www.transfermarkt.com/young-pyo-lee/profil/spieler/6156",
+      "seasons": [
+        "08/09",
+        "09/10"
+      ],
+      "transfers": [
+        "Ayrılış 09/10",
+        "Geliş 08/09"
+      ]
+    },
+    "1682": {
+      "id": "1682",
+      "name": "Giovanni Federico",
+      "profile_url": "https://www.transfermarkt.com/giovanni-federico/profil/spieler/1682",
+      "seasons": [
+        "07/08",
+        "08/09",
+        "09/10"
+      ],
+      "transfers": [
+        "Ayrılış 09/10",
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "16922": {
+      "id": "16922",
+      "name": "Kevin-Prince Boateng",
+      "profile_url": "https://www.transfermarkt.com/kevin-prince-boateng/profil/spieler/16922",
+      "seasons": [
+        "08/09"
+      ],
+      "transfers": [
+        "Geliş 08/09"
+      ]
+    },
+    "2201": {
+      "id": "2201",
+      "name": "Lukas Kruse",
+      "profile_url": "https://www.transfermarkt.com/lukas-kruse/profil/spieler/2201",
+      "seasons": [
+        "08/09"
+      ],
+      "transfers": [
+        "Geliş 08/09",
+        "Ayrılış 08/09"
+      ]
+    },
+    "2874": {
+      "id": "2874",
+      "name": "Mladen Petric",
+      "profile_url": "https://www.transfermarkt.com/mladen-petric/profil/spieler/2874",
+      "seasons": [
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "4321": {
+      "id": "4321",
+      "name": "Steven Pienaar",
+      "profile_url": "https://www.transfermarkt.com/steven-pienaar/profil/spieler/4321",
+      "seasons": [
+        "06/07",
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Ayrılış 07/08",
+        "Geliş 06/07"
+      ]
+    },
+    "20264": {
+      "id": "20264",
+      "name": "Marc-André Kruska",
+      "profile_url": "https://www.transfermarkt.com/marc-andre-kruska/profil/spieler/20264",
+      "seasons": [
+        "04/05",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 04/05"
+      ]
+    },
+    "75": {
+      "id": "75",
+      "name": "Robert Kovac",
+      "profile_url": "https://www.transfermarkt.com/robert-kovac/profil/spieler/75",
+      "seasons": [
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "1323": {
+      "id": "1323",
+      "name": "Martin Amedick",
+      "profile_url": "https://www.transfermarkt.com/martin-amedick/profil/spieler/1323",
+      "seasons": [
+        "06/07",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 06/07"
+      ]
+    },
+    "1424": {
+      "id": "1424",
+      "name": "Diego Klimowicz",
+      "profile_url": "https://www.transfermarkt.com/diego-klimowicz/profil/spieler/1424",
+      "seasons": [
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "620": {
+      "id": "620",
+      "name": "Delron Buckley",
+      "profile_url": "https://www.transfermarkt.com/delron-buckley/profil/spieler/620",
+      "seasons": [
+        "05/06",
+        "06/07",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Ayrılış 06/07",
+        "Geliş 05/06"
+      ]
+    },
+    "2895": {
+      "id": "2895",
+      "name": "Philipp Degen",
+      "profile_url": "https://www.transfermarkt.com/philipp-degen/profil/spieler/2895",
+      "seasons": [
+        "05/06",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 05/06"
+      ]
+    },
+    "31": {
+      "id": "31",
+      "name": "Alexander Bade",
+      "profile_url": "https://www.transfermarkt.com/alexander-bade/profil/spieler/31",
+      "seasons": [
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "137": {
+      "id": "137",
+      "name": "Christian Wörns",
+      "profile_url": "https://www.transfermarkt.com/christian-worns/profil/spieler/137",
+      "seasons": [
+        "08/09",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 99/00"
+      ]
+    },
+    "31610": {
+      "id": "31610",
+      "name": "Sebastian Tyrala",
+      "profile_url": "https://www.transfermarkt.com/sebastian-tyrala/profil/spieler/31610",
+      "seasons": [
+        "05/06",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 05/06"
+      ]
+    },
+    "31874": {
+      "id": "31874",
+      "name": "David Vrzogic",
+      "profile_url": "https://www.transfermarkt.com/david-vrzogic/profil/spieler/31874",
+      "seasons": [
+        "06/07",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 06/07"
+      ]
+    },
+    "17733": {
+      "id": "17733",
+      "name": "Daniel Gordon",
+      "profile_url": "https://www.transfermarkt.com/daniel-gordon/profil/spieler/17733",
+      "seasons": [
+        "07/08",
+        "08/09"
+      ],
+      "transfers": [
+        "Ayrılış 08/09",
+        "Geliş 07/08"
+      ]
+    },
+    "4388": {
+      "id": "4388",
+      "name": "Ebi Smolarek",
+      "profile_url": "https://www.transfermarkt.com/ebi-smolarek/profil/spieler/4388",
+      "seasons": [
+        "04/05",
+        "05/06",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 05/06",
+        "Geliş 04/05"
+      ]
+    },
+    "4429": {
+      "id": "4429",
+      "name": "Matthew Amoah",
+      "profile_url": "https://www.transfermarkt.com/matthew-amoah/profil/spieler/4429",
+      "seasons": [
+        "05/06",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 05/06"
+      ]
+    },
+    "123": {
+      "id": "123",
+      "name": "Christoph Metzelder",
+      "profile_url": "https://www.transfermarkt.com/christoph-metzelder/profil/spieler/123",
+      "seasons": [
+        "00/01",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 00/01"
+      ]
+    },
+    "18534": {
+      "id": "18534",
+      "name": "Kosi Saka",
+      "profile_url": "https://www.transfermarkt.com/kosi-saka/profil/spieler/18534",
+      "seasons": [
+        "05/06",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 05/06"
+      ]
+    },
+    "18192": {
+      "id": "18192",
+      "name": "Sören Pirson",
+      "profile_url": "https://www.transfermarkt.com/soren-pirson/profil/spieler/18192",
+      "seasons": [
+        "06/07",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 06/07"
+      ]
+    },
+    "131": {
+      "id": "131",
+      "name": "Lars Ricken",
+      "profile_url": "https://www.transfermarkt.com/lars-ricken/profil/spieler/131",
+      "seasons": [
+        "07/08",
+        "93/94"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 93/94"
+      ]
+    },
+    "787": {
+      "id": "787",
+      "name": "Bernd Meier",
+      "profile_url": "https://www.transfermarkt.com/bernd-meier/profil/spieler/787",
+      "seasons": [
+        "05/06",
+        "07/08"
+      ],
+      "transfers": [
+        "Ayrılış 07/08",
+        "Geliş 05/06"
+      ]
+    },
+    "132": {
+      "id": "132",
+      "name": "Tomas Rosicky",
+      "profile_url": "https://www.transfermarkt.com/tomas-rosicky/profil/spieler/132",
+      "seasons": [
+        "00/01",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 00/01"
+      ]
+    },
+    "1716": {
+      "id": "1716",
+      "name": "David Odonkor",
+      "profile_url": "https://www.transfermarkt.com/david-odonkor/profil/spieler/1716",
+      "seasons": [
+        "02/03",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 02/03"
+      ]
+    },
+    "30431": {
+      "id": "30431",
+      "name": "Nizamettin Çalışkan",
+      "profile_url": "https://www.transfermarkt.com/nizamettin-caliskan/profil/spieler/30431",
+      "seasons": [
+        "05/06",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 05/06"
+      ]
+    },
+    "4513": {
+      "id": "4513",
+      "name": "Dennis Gentenaar",
+      "profile_url": "https://www.transfermarkt.com/dennis-gentenaar/profil/spieler/4513",
+      "seasons": [
+        "05/06",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 05/06"
+      ]
+    },
+    "2004": {
+      "id": "2004",
+      "name": "Salvatore Gambino",
+      "profile_url": "https://www.transfermarkt.com/salvatore-gambino/profil/spieler/2004",
+      "seasons": [
+        "03/04",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 03/04"
+      ]
+    },
+    "1157": {
+      "id": "1157",
+      "name": "Jan Koller",
+      "profile_url": "https://www.transfermarkt.com/jan-koller/profil/spieler/1157",
+      "seasons": [
+        "01/02",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 01/02"
+      ]
+    },
+    "4676": {
+      "id": "4676",
+      "name": "Cedric van der Gun",
+      "profile_url": "https://www.transfermarkt.com/cedric-van-der-gun/profil/spieler/4676",
+      "seasons": [
+        "05/06",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 05/06"
+      ]
+    },
+    "16652": {
+      "id": "16652",
+      "name": "Sascha Rammel",
+      "profile_url": "https://www.transfermarkt.com/sascha-rammel/profil/spieler/16652",
+      "seasons": [
+        "04/05",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Geliş 04/05"
+      ]
+    },
+    "2768": {
+      "id": "2768",
+      "name": "Sahr Senesie",
+      "profile_url": "https://www.transfermarkt.com/sahr-senesie/profil/spieler/2768",
+      "seasons": [
+        "03/04",
+        "04/05",
+        "05/06",
+        "06/07"
+      ],
+      "transfers": [
+        "Ayrılış 06/07",
+        "Ayrılış 05/06",
+        "Ayrılış 04/05",
+        "Geliş 03/04"
+      ]
+    },
+    "1396": {
+      "id": "1396",
+      "name": "Ewerthon",
+      "profile_url": "https://www.transfermarkt.com/ewerthon/profil/spieler/1396",
+      "seasons": [
+        "01/02",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 01/02"
+      ]
+    },
+    "3809": {
+      "id": "3809",
+      "name": "Niclas Jensen",
+      "profile_url": "https://www.transfermarkt.com/niclas-jensen/profil/spieler/3809",
+      "seasons": [
+        "03/04",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 03/04"
+      ]
+    },
+    "3552": {
+      "id": "3552",
+      "name": "Guillaume Warmuz",
+      "profile_url": "https://www.transfermarkt.com/guillaume-warmuz/profil/spieler/3552",
+      "seasons": [
+        "03/04",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 03/04"
+      ]
+    },
+    "127": {
+      "id": "127",
+      "name": "Sunday Oliseh",
+      "profile_url": "https://www.transfermarkt.com/sunday-oliseh/profil/spieler/127",
+      "seasons": [
+        "00/01",
+        "02/03",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Ayrılış 02/03",
+        "Geliş 00/01"
+      ]
+    },
+    "4312": {
+      "id": "4312",
+      "name": "André Bergdølmo",
+      "profile_url": "https://www.transfermarkt.com/andre-bergdolmo/profil/spieler/4312",
+      "seasons": [
+        "03/04",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 03/04"
+      ]
+    },
+    "1368": {
+      "id": "1368",
+      "name": "Guy Demel",
+      "profile_url": "https://www.transfermarkt.com/guy-demel/profil/spieler/1368",
+      "seasons": [
+        "01/02",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 01/02"
+      ]
+    },
+    "102": {
+      "id": "102",
+      "name": "Otto Addo",
+      "profile_url": "https://www.transfermarkt.com/otto-addo/profil/spieler/102",
+      "seasons": [
+        "05/06",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 99/00"
+      ]
+    },
+    "1254": {
+      "id": "1254",
+      "name": "Ahmed Madouni",
+      "profile_url": "https://www.transfermarkt.com/ahmed-madouni/profil/spieler/1254",
+      "seasons": [
+        "01/02",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 01/02"
+      ]
+    },
+    "2295": {
+      "id": "2295",
+      "name": "Malte Metzelder",
+      "profile_url": "https://www.transfermarkt.com/malte-metzelder/profil/spieler/2295",
+      "seasons": [
+        "03/04",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 03/04"
+      ]
+    },
+    "1585": {
+      "id": "1585",
+      "name": "Juan Fernández",
+      "profile_url": "https://www.transfermarkt.com/juan-fernandez/profil/spieler/1585",
+      "seasons": [
+        "02/03",
+        "03/04",
+        "04/05",
+        "05/06"
+      ],
+      "transfers": [
+        "Ayrılış 05/06",
+        "Geliş 04/05",
+        "Ayrılış 03/04",
+        "Geliş 02/03"
+      ]
+    },
+    "528": {
+      "id": "528",
+      "name": "Torsten Frings",
+      "profile_url": "https://www.transfermarkt.com/torsten-frings/profil/spieler/528",
+      "seasons": [
+        "02/03",
+        "04/05"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Geliş 02/03"
+      ]
+    },
+    "107": {
+      "id": "107",
+      "name": "Conor Casey",
+      "profile_url": "https://www.transfermarkt.com/conor-casey/profil/spieler/107",
+      "seasons": [
+        "00/01",
+        "01/02",
+        "03/04",
+        "04/05"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Ayrılış 03/04",
+        "Ayrılış 01/02",
+        "Geliş 00/01"
+      ]
+    },
+    "120": {
+      "id": "120",
+      "name": "Emmanuel Krontiris",
+      "profile_url": "https://www.transfermarkt.com/emmanuel-krontiris/profil/spieler/120",
+      "seasons": [
+        "00/01",
+        "02/03",
+        "04/05"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Ayrılış 02/03",
+        "Geliş 00/01"
+      ]
+    },
+    "16149": {
+      "id": "16149",
+      "name": "Thiago",
+      "profile_url": "https://www.transfermarkt.com/thiago/profil/spieler/16149",
+      "seasons": [
+        "03/04",
+        "04/05"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Geliş 03/04"
+      ]
+    },
+    "110": {
+      "id": "110",
+      "name": "Evanilson",
+      "profile_url": "https://www.transfermarkt.com/evanilson/profil/spieler/110",
+      "seasons": [
+        "01/02",
+        "03/04",
+        "04/05",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Geliş 03/04",
+        "Geliş 01/02",
+        "Ayrılış 01/02",
+        "Geliş 99/00"
+      ]
+    },
+    "130": {
+      "id": "130",
+      "name": "Stefan Reuter",
+      "profile_url": "https://www.transfermarkt.com/stefan-reuter/profil/spieler/130",
+      "seasons": [
+        "04/05",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Geliş 92/93"
+      ]
+    },
+    "114": {
+      "id": "114",
+      "name": "Heiko Herrlich",
+      "profile_url": "https://www.transfermarkt.com/heiko-herrlich/profil/spieler/114",
+      "seasons": [
+        "04/05",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 04/05",
+        "Geliş 95/96"
+      ]
+    },
+    "7279": {
+      "id": "7279",
+      "name": "Flávio Conceição",
+      "profile_url": "https://www.transfermarkt.com/flavio-conceicao/profil/spieler/7279",
+      "seasons": [
+        "03/04"
+      ],
+      "transfers": [
+        "Geliş 03/04"
+      ]
+    },
+    "122": {
+      "id": "122",
+      "name": "Jens Lehmann",
+      "profile_url": "https://www.transfermarkt.com/jens-lehmann/profil/spieler/122",
+      "seasons": [
+        "03/04",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 03/04",
+        "Geliş 98/99"
+      ]
+    },
+    "129": {
+      "id": "129",
+      "name": "Giuseppe Reina",
+      "profile_url": "https://www.transfermarkt.com/giuseppe-reina/profil/spieler/129",
+      "seasons": [
+        "03/04",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 03/04",
+        "Geliş 99/00"
+      ]
+    },
+    "113": {
+      "id": "113",
+      "name": "Jörg Heinrich",
+      "profile_url": "https://www.transfermarkt.com/jorg-heinrich/profil/spieler/113",
+      "seasons": [
+        "00/01",
+        "03/04",
+        "95/96",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 03/04",
+        "Geliş 00/01",
+        "Ayrılış 98/99",
+        "Geliş 95/96"
+      ]
+    },
+    "1263": {
+      "id": "1263",
+      "name": "Márcio Amoroso",
+      "profile_url": "https://www.transfermarkt.com/marcio-amoroso/profil/spieler/1263",
+      "seasons": [
+        "01/02",
+        "03/04"
+      ],
+      "transfers": [
+        "Ayrılış 03/04",
+        "Geliş 01/02"
+      ]
+    },
+    "115": {
+      "id": "115",
+      "name": "Victor Ikpeba",
+      "profile_url": "https://www.transfermarkt.com/victor-ikpeba/profil/spieler/115",
+      "seasons": [
+        "01/02",
+        "02/03",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Ayrılış 01/02",
+        "Geliş 99/00"
+      ]
+    },
+    "104": {
+      "id": "104",
+      "name": "Fredi Bobic",
+      "profile_url": "https://www.transfermarkt.com/fredi-bobic/profil/spieler/104",
+      "seasons": [
+        "01/02",
+        "02/03",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Ayrılış 01/02",
+        "Geliş 99/00"
+      ]
+    },
+    "134": {
+      "id": "134",
+      "name": "Jan Derek Sørensen",
+      "profile_url": "https://www.transfermarkt.com/jan-derek-sorensen/profil/spieler/134",
+      "seasons": [
+        "00/01",
+        "02/03"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Geliş 00/01"
+      ]
+    },
+    "135": {
+      "id": "135",
+      "name": "Miroslav Stevic",
+      "profile_url": "https://www.transfermarkt.com/miroslav-stevic/profil/spieler/135",
+      "seasons": [
+        "02/03",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Geliş 98/99"
+      ]
+    },
+    "121": {
+      "id": "121",
+      "name": "Dr. Philipp Laux",
+      "profile_url": "https://www.transfermarkt.com/dr-philipp-laux/profil/spieler/121",
+      "seasons": [
+        "00/01",
+        "02/03",
+        "93/94",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Geliş 00/01",
+        "Ayrılış 94/95",
+        "Geliş 93/94"
+      ]
+    },
+    "119": {
+      "id": "119",
+      "name": "Jürgen Kohler",
+      "profile_url": "https://www.transfermarkt.com/jurgen-kohler/profil/spieler/119",
+      "seasons": [
+        "02/03",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Geliş 95/96"
+      ]
+    },
+    "105": {
+      "id": "105",
+      "name": "Francis Bugri",
+      "profile_url": "https://www.transfermarkt.com/francis-bugri/profil/spieler/105",
+      "seasons": [
+        "00/01",
+        "02/03"
+      ],
+      "transfers": [
+        "Ayrılış 02/03",
+        "Geliş 00/01"
+      ]
+    },
+    "1926": {
+      "id": "1926",
+      "name": "Léandro",
+      "profile_url": "https://www.transfermarkt.com/leandro/profil/spieler/1926",
+      "seasons": [
+        "01/02"
+      ],
+      "transfers": [
+        "Geliş 01/02"
+      ]
+    },
+    "125": {
+      "id": "125",
+      "name": "Christian Nerlinger",
+      "profile_url": "https://www.transfermarkt.com/christian-nerlinger/profil/spieler/125",
+      "seasons": [
+        "01/02",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 01/02",
+        "Geliş 98/99"
+      ]
+    },
+    "126": {
+      "id": "126",
+      "name": "Alfred Nijhuis",
+      "profile_url": "https://www.transfermarkt.com/alfred-nijhuis/profil/spieler/126",
+      "seasons": [
+        "01/02",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 01/02",
+        "Geliş 98/99"
+      ]
+    },
+    "108": {
+      "id": "108",
+      "name": "Wolfgang de Beer",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-de-beer/profil/spieler/108",
+      "seasons": [
+        "01/02",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 01/02",
+        "Geliş 86/87"
+      ]
+    },
+    "116": {
+      "id": "116",
+      "name": "Sead Kapetanovic",
+      "profile_url": "https://www.transfermarkt.com/sead-kapetanovic/profil/spieler/116",
+      "seasons": [
+        "01/02",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 01/02",
+        "Geliş 99/00"
+      ]
+    },
+    "292": {
+      "id": "292",
+      "name": "Sergej Barbarez",
+      "profile_url": "https://www.transfermarkt.com/sergej-barbarez/profil/spieler/292",
+      "seasons": [
+        "00/01",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 98/99"
+      ]
+    },
+    "656": {
+      "id": "656",
+      "name": "Thomas Hengen",
+      "profile_url": "https://www.transfermarkt.com/thomas-hengen/profil/spieler/656",
+      "seasons": [
+        "00/01",
+        "98/99",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 99/00",
+        "Ayrılış 99/00",
+        "Geliş 98/99"
+      ]
+    },
+    "106": {
+      "id": "106",
+      "name": "Vladimir But",
+      "profile_url": "https://www.transfermarkt.com/vladimir-but/profil/spieler/106",
+      "seasons": [
+        "00/01",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 96/97"
+      ]
+    },
+    "136": {
+      "id": "136",
+      "name": "Ibrahim Tanko",
+      "profile_url": "https://www.transfermarkt.com/ibrahim-tanko/profil/spieler/136",
+      "seasons": [
+        "00/01",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 95/96"
+      ]
+    },
+    "876": {
+      "id": "876",
+      "name": "Karsten Baumann",
+      "profile_url": "https://www.transfermarkt.com/karsten-baumann/profil/spieler/876",
+      "seasons": [
+        "00/01",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 98/99"
+      ]
+    },
+    "124": {
+      "id": "124",
+      "name": "Andreas Möller",
+      "profile_url": "https://www.transfermarkt.com/andreas-moller/profil/spieler/124",
+      "seasons": [
+        "00/01",
+        "87/88",
+        "90/91",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 94/95",
+        "Ayrılış 90/91",
+        "Geliş 87/88"
+      ]
+    },
+    "3474": {
+      "id": "3474",
+      "name": "Jovan Kirovski",
+      "profile_url": "https://www.transfermarkt.com/jovan-kirovski/profil/spieler/3474",
+      "seasons": [
+        "00/01",
+        "96/97",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Ayrılış 98/99",
+        "Geliş 96/97"
+      ]
+    },
+    "1245": {
+      "id": "1245",
+      "name": "Everaldo",
+      "profile_url": "https://www.transfermarkt.com/everaldo/profil/spieler/1245",
+      "seasons": [
+        "00/01",
+        "98/99",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 00/01",
+        "Geliş 99/00",
+        "Geliş 98/99",
+        "Ayrılış 98/99"
+      ]
+    },
+    "255": {
+      "id": "255",
+      "name": "Bachirou Salou",
+      "profile_url": "https://www.transfermarkt.com/bachirou-salou/profil/spieler/255",
+      "seasons": [
+        "98/99",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 98/99"
+      ]
+    },
+    "3501": {
+      "id": "3501",
+      "name": "Stéphane Chapuisat",
+      "profile_url": "https://www.transfermarkt.com/stephane-chapuisat/profil/spieler/3501",
+      "seasons": [
+        "91/92",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 91/92"
+      ]
+    },
+    "3558": {
+      "id": "3558",
+      "name": "Scott Booth",
+      "profile_url": "https://www.transfermarkt.com/scott-booth/profil/spieler/3558",
+      "seasons": [
+        "97/98",
+        "98/99",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Ayrılış 98/99",
+        "Geliş 97/98",
+        "Ayrılış 97/98"
+      ]
+    },
+    "51": {
+      "id": "51",
+      "name": "Christian Timm",
+      "profile_url": "https://www.transfermarkt.com/christian-timm/profil/spieler/51",
+      "seasons": [
+        "96/97",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 96/97"
+      ]
+    },
+    "111": {
+      "id": "111",
+      "name": "Wolfgang Feiersinger",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-feiersinger/profil/spieler/111",
+      "seasons": [
+        "96/97",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 96/97"
+      ]
+    },
+    "247": {
+      "id": "247",
+      "name": "René Schneider",
+      "profile_url": "https://www.transfermarkt.com/rene-schneider/profil/spieler/247",
+      "seasons": [
+        "96/97",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 96/97"
+      ]
+    },
+    "1523": {
+      "id": "1523",
+      "name": "Manfred Binz",
+      "profile_url": "https://www.transfermarkt.com/manfred-binz/profil/spieler/1523",
+      "seasons": [
+        "97/98",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 97/98"
+      ]
+    },
+    "553": {
+      "id": "553",
+      "name": "Thomas Häßler",
+      "profile_url": "https://www.transfermarkt.com/thomas-hassler/profil/spieler/553",
+      "seasons": [
+        "98/99",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 98/99"
+      ]
+    },
+    "13980": {
+      "id": "13980",
+      "name": "Harry Decheiver",
+      "profile_url": "https://www.transfermarkt.com/harry-decheiver/profil/spieler/13980",
+      "seasons": [
+        "97/98",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 97/98"
+      ]
+    },
+    "84184": {
+      "id": "84184",
+      "name": "Martin Kree",
+      "profile_url": "https://www.transfermarkt.com/martin-kree/profil/spieler/84184",
+      "seasons": [
+        "94/95",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 94/95"
+      ]
+    },
+    "104909": {
+      "id": "104909",
+      "name": "Frank Riethmann",
+      "profile_url": "https://www.transfermarkt.com/frank-riethmann/profil/spieler/104909",
+      "seasons": [
+        "96/97",
+        "99/00"
+      ],
+      "transfers": [
+        "Ayrılış 99/00",
+        "Geliş 96/97"
+      ]
+    },
+    "30945": {
+      "id": "30945",
+      "name": "Júlio César",
+      "profile_url": "https://www.transfermarkt.com/julio-cesar/profil/spieler/30945",
+      "seasons": [
+        "94/95",
+        "97/98",
+        "98/99"
+      ],
+      "transfers": [
+        "Geliş 98/99",
+        "Ayrılış 98/99",
+        "Ayrılış 97/98",
+        "Geliş 94/95"
+      ]
+    },
+    "3990": {
+      "id": "3990",
+      "name": "Steffen Freund",
+      "profile_url": "https://www.transfermarkt.com/steffen-freund/profil/spieler/3990",
+      "seasons": [
+        "93/94",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 93/94"
+      ]
+    },
+    "3442": {
+      "id": "3442",
+      "name": "Stefan Klos",
+      "profile_url": "https://www.transfermarkt.com/stefan-klos/profil/spieler/3442",
+      "seasons": [
+        "90/91",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 90/91"
+      ]
+    },
+    "17990": {
+      "id": "17990",
+      "name": "Knut Reinhardt",
+      "profile_url": "https://www.transfermarkt.com/knut-reinhardt/profil/spieler/17990",
+      "seasons": [
+        "91/92",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 91/92"
+      ]
+    },
+    "26682": {
+      "id": "26682",
+      "name": "Steinar Pedersen",
+      "profile_url": "https://www.transfermarkt.com/steinar-pedersen/profil/spieler/26682",
+      "seasons": [
+        "96/97",
+        "97/98",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 97/98",
+        "Geliş 96/97",
+        "Ayrılış 96/97"
+      ]
+    },
+    "38033": {
+      "id": "38033",
+      "name": "Michael Zorc",
+      "profile_url": "https://www.transfermarkt.com/michael-zorc/profil/spieler/38033",
+      "seasons": [
+        "81/82",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 81/82"
+      ]
+    },
+    "77010": {
+      "id": "77010",
+      "name": "Matthias Sammer",
+      "profile_url": "https://www.transfermarkt.com/matthias-sammer/profil/spieler/77010",
+      "seasons": [
+        "92/93",
+        "98/99"
+      ],
+      "transfers": [
+        "Ayrılış 98/99",
+        "Geliş 92/93"
+      ]
+    },
+    "1536": {
+      "id": "1536",
+      "name": "Paulo Sousa",
+      "profile_url": "https://www.transfermarkt.com/paulo-sousa/profil/spieler/1536",
+      "seasons": [
+        "96/97",
+        "97/98"
+      ],
+      "transfers": [
+        "Ayrılış 97/98",
+        "Geliş 96/97"
+      ]
+    },
+    "3982": {
+      "id": "3982",
+      "name": "Paul Lambert",
+      "profile_url": "https://www.transfermarkt.com/paul-lambert/profil/spieler/3982",
+      "seasons": [
+        "96/97",
+        "97/98"
+      ],
+      "transfers": [
+        "Ayrılış 97/98",
+        "Geliş 96/97"
+      ]
+    },
+    "13806": {
+      "id": "13806",
+      "name": "Karl-Heinz Riedle",
+      "profile_url": "https://www.transfermarkt.com/karl-heinz-riedle/profil/spieler/13806",
+      "seasons": [
+        "93/94",
+        "97/98"
+      ],
+      "transfers": [
+        "Ayrılış 97/98",
+        "Geliş 93/94"
+      ]
+    },
+    "357": {
+      "id": "357",
+      "name": "René Tretschok",
+      "profile_url": "https://www.transfermarkt.com/rene-tretschok/profil/spieler/357",
+      "seasons": [
+        "92/93",
+        "93/94",
+        "97/98"
+      ],
+      "transfers": [
+        "Ayrılış 97/98",
+        "Ayrılış 93/94",
+        "Geliş 92/93"
+      ]
+    },
+    "3218": {
+      "id": "3218",
+      "name": "Patrik Berger",
+      "profile_url": "https://www.transfermarkt.com/patrik-berger/profil/spieler/3218",
+      "seasons": [
+        "95/96",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 95/96"
+      ]
+    },
+    "11197": {
+      "id": "11197",
+      "name": "Bodo Schmidt",
+      "profile_url": "https://www.transfermarkt.com/bodo-schmidt/profil/spieler/11197",
+      "seasons": [
+        "91/92",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 91/92"
+      ]
+    },
+    "84633": {
+      "id": "84633",
+      "name": "Thomas Franck",
+      "profile_url": "https://www.transfermarkt.com/thomas-franck/profil/spieler/84633",
+      "seasons": [
+        "90/91",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 90/91"
+      ]
+    },
+    "558": {
+      "id": "558",
+      "name": "Marco Kurz",
+      "profile_url": "https://www.transfermarkt.com/marco-kurz/profil/spieler/558",
+      "seasons": [
+        "94/95",
+        "95/96",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Ayrılış 95/96",
+        "Geliş 94/95"
+      ]
+    },
+    "388": {
+      "id": "388",
+      "name": "Carsten Wolters",
+      "profile_url": "https://www.transfermarkt.com/carsten-wolters/profil/spieler/388",
+      "seasons": [
+        "95/96",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 95/96"
+      ]
+    },
+    "17858": {
+      "id": "17858",
+      "name": "Mallam Yahaya",
+      "profile_url": "https://www.transfermarkt.com/mallam-yahaya/profil/spieler/17858",
+      "seasons": [
+        "94/95",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 94/95",
+        "Ayrılış 94/95"
+      ]
+    },
+    "22455": {
+      "id": "22455",
+      "name": "Rubén Sosa",
+      "profile_url": "https://www.transfermarkt.com/ruben-sosa/profil/spieler/22455",
+      "seasons": [
+        "95/96",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 95/96"
+      ]
+    },
+    "95856": {
+      "id": "95856",
+      "name": "Günter Kutowski",
+      "profile_url": "https://www.transfermarkt.com/gunter-kutowski/profil/spieler/95856",
+      "seasons": [
+        "84/85",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 84/85"
+      ]
+    },
+    "39670": {
+      "id": "39670",
+      "name": "Toni Schumacher",
+      "profile_url": "https://www.transfermarkt.com/toni-schumacher/profil/spieler/39670",
+      "seasons": [
+        "95/96",
+        "96/97"
+      ],
+      "transfers": [
+        "Ayrılış 96/97",
+        "Geliş 95/96"
+      ]
+    },
+    "573": {
+      "id": "573",
+      "name": "Ned Zelic",
+      "profile_url": "https://www.transfermarkt.com/ned-zelic/profil/spieler/573",
+      "seasons": [
+        "92/93",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 95/96",
+        "Geliş 92/93"
+      ]
+    },
+    "977": {
+      "id": "977",
+      "name": "Marc Arnold",
+      "profile_url": "https://www.transfermarkt.com/marc-arnold/profil/spieler/977",
+      "seasons": [
+        "94/95",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 95/96",
+        "Geliş 94/95"
+      ]
+    },
+    "1542": {
+      "id": "1542",
+      "name": "Steffen Karl",
+      "profile_url": "https://www.transfermarkt.com/steffen-karl/profil/spieler/1542",
+      "seasons": [
+        "89/90",
+        "93/94",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 95/96",
+        "Ayrılış 93/94",
+        "Geliş 89/90"
+      ]
+    },
+    "81554": {
+      "id": "81554",
+      "name": "Flemming Povlsen",
+      "profile_url": "https://www.transfermarkt.com/flemming-povlsen/profil/spieler/81554",
+      "seasons": [
+        "90/91",
+        "95/96"
+      ],
+      "transfers": [
+        "Ayrılış 95/96",
+        "Geliş 90/91"
+      ]
+    },
+    "1521": {
+      "id": "1521",
+      "name": "Gerhard Poschner",
+      "profile_url": "https://www.transfermarkt.com/gerhard-poschner/profil/spieler/1521",
+      "seasons": [
+        "90/91",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 90/91"
+      ]
+    },
+    "22537": {
+      "id": "22537",
+      "name": "Michael Schulz",
+      "profile_url": "https://www.transfermarkt.com/michael-schulz/profil/spieler/22537",
+      "seasons": [
+        "89/90",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 89/90"
+      ]
+    },
+    "78749": {
+      "id": "78749",
+      "name": "Lothar Sippel",
+      "profile_url": "https://www.transfermarkt.com/lothar-sippel/profil/spieler/78749",
+      "seasons": [
+        "92/93",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 92/93"
+      ]
+    },
+    "497": {
+      "id": "497",
+      "name": "Uwe Grauer",
+      "profile_url": "https://www.transfermarkt.com/uwe-grauer/profil/spieler/497",
+      "seasons": [
+        "89/90",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 89/90"
+      ]
+    },
+    "84562": {
+      "id": "84562",
+      "name": "Frank Mill",
+      "profile_url": "https://www.transfermarkt.com/frank-mill/profil/spieler/84562",
+      "seasons": [
+        "86/87",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 86/87"
+      ]
+    },
+    "173228": {
+      "id": "173228",
+      "name": "Stefan Thiele",
+      "profile_url": "https://www.transfermarkt.com/stefan-thiele/profil/spieler/173228",
+      "seasons": [
+        "92/93",
+        "94/95"
+      ],
+      "transfers": [
+        "Ayrılış 94/95",
+        "Geliş 92/93"
+      ]
+    },
+    "102212": {
+      "id": "102212",
+      "name": "Leonardo Rodríguez",
+      "profile_url": "https://www.transfermarkt.com/leonardo-rodriguez/profil/spieler/102212",
+      "seasons": [
+        "93/94"
+      ],
+      "transfers": [
+        "Geliş 93/94"
+      ]
+    },
+    "77015": {
+      "id": "77015",
+      "name": "Michael Rummenigge",
+      "profile_url": "https://www.transfermarkt.com/michael-rummenigge/profil/spieler/77015",
+      "seasons": [
+        "88/89",
+        "93/94"
+      ],
+      "transfers": [
+        "Ayrılış 93/94",
+        "Geliş 88/89"
+      ]
+    },
+    "84554": {
+      "id": "84554",
+      "name": "Michael Lusch",
+      "profile_url": "https://www.transfermarkt.com/michael-lusch/profil/spieler/84554",
+      "seasons": [
+        "82/83",
+        "93/94"
+      ],
+      "transfers": [
+        "Ayrılış 93/94",
+        "Geliş 82/83"
+      ]
+    },
+    "95859": {
+      "id": "95859",
+      "name": "Christof Osigus",
+      "profile_url": "https://www.transfermarkt.com/christof-osigus/profil/spieler/95859",
+      "seasons": [
+        "92/93",
+        "93/94"
+      ],
+      "transfers": [
+        "Ayrılış 93/94",
+        "Geliş 92/93"
+      ]
+    },
+    "12405": {
+      "id": "12405",
+      "name": "Thomas Helmer",
+      "profile_url": "https://www.transfermarkt.com/thomas-helmer/profil/spieler/12405",
+      "seasons": [
+        "86/87",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93",
+        "Geliş 86/87"
+      ]
+    },
+    "726": {
+      "id": "726",
+      "name": "Peter Quallo",
+      "profile_url": "https://www.transfermarkt.com/peter-quallo/profil/spieler/726",
+      "seasons": [
+        "90/91",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93",
+        "Geliş 90/91"
+      ]
+    },
+    "95853": {
+      "id": "95853",
+      "name": "Günter Breitzke",
+      "profile_url": "https://www.transfermarkt.com/gunter-breitzke/profil/spieler/95853",
+      "seasons": [
+        "88/89",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93",
+        "Geliş 88/89"
+      ]
+    },
+    "95073": {
+      "id": "95073",
+      "name": "Jürgen Wegmann",
+      "profile_url": "https://www.transfermarkt.com/jurgen-wegmann/profil/spieler/95073",
+      "seasons": [
+        "83/84",
+        "86/87",
+        "89/90",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93",
+        "Geliş 89/90",
+        "Ayrılış 86/87",
+        "Geliş 83/84"
+      ]
+    },
+    "472": {
+      "id": "472",
+      "name": "Dirk Hofmann",
+      "profile_url": "https://www.transfermarkt.com/dirk-hofmann/profil/spieler/472",
+      "seasons": [
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93"
+      ]
+    },
+    "21657": {
+      "id": "21657",
+      "name": "Sergey Gorlukovich",
+      "profile_url": "https://www.transfermarkt.com/sergey-gorlukovich/profil/spieler/21657",
+      "seasons": [
+        "89/90",
+        "92/93"
+      ],
+      "transfers": [
+        "Ayrılış 92/93",
+        "Geliş 89/90"
+      ]
+    },
+    "778": {
+      "id": "778",
+      "name": "Martin Driller",
+      "profile_url": "https://www.transfermarkt.com/martin-driller/profil/spieler/778",
+      "seasons": [
+        "89/90",
+        "91/92"
+      ],
+      "transfers": [
+        "Ayrılış 91/92",
+        "Geliş 89/90"
+      ]
+    },
+    "1071": {
+      "id": "1071",
+      "name": "Robert Nikolic",
+      "profile_url": "https://www.transfermarkt.com/robert-nikolic/profil/spieler/1071",
+      "seasons": [
+        "88/89",
+        "91/92"
+      ],
+      "transfers": [
+        "Ayrılış 91/92",
+        "Geliş 88/89"
+      ]
+    },
+    "84659": {
+      "id": "84659",
+      "name": "Andreas Müller",
+      "profile_url": "https://www.transfermarkt.com/andreas-muller/profil/spieler/84659",
+      "seasons": [
+        "90/91",
+        "91/92"
+      ],
+      "transfers": [
+        "Ayrılış 91/92",
+        "Geliş 90/91",
+        "Ayrılış 90/91"
+      ]
+    },
+    "95864": {
+      "id": "95864",
+      "name": "Stefan Strerath",
+      "profile_url": "https://www.transfermarkt.com/stefan-strerath/profil/spieler/95864",
+      "seasons": [
+        "89/90",
+        "91/92"
+      ],
+      "transfers": [
+        "Ayrılış 91/92",
+        "Geliş 89/90"
+      ]
+    },
+    "81737": {
+      "id": "81737",
+      "name": "Rolf Meyer",
+      "profile_url": "https://www.transfermarkt.com/rolf-meyer/profil/spieler/81737",
+      "seasons": [
+        "83/84",
+        "91/92"
+      ],
+      "transfers": [
+        "Ayrılış 91/92",
+        "Geliş 83/84"
+      ]
+    },
+    "95857": {
+      "id": "95857",
+      "name": "Murdo MacLeod",
+      "profile_url": "https://www.transfermarkt.com/murdo-macleod/profil/spieler/95857",
+      "seasons": [
+        "87/88",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 87/88"
+      ]
+    },
+    "95858": {
+      "id": "95858",
+      "name": "Andreas Ortkemper",
+      "profile_url": "https://www.transfermarkt.com/andreas-ortkemper/profil/spieler/95858",
+      "seasons": [
+        "88/89",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 88/89"
+      ]
+    },
+    "95861": {
+      "id": "95861",
+      "name": "Stephan Ritz",
+      "profile_url": "https://www.transfermarkt.com/stephan-ritz/profil/spieler/95861",
+      "seasons": [
+        "89/90",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 89/90"
+      ]
+    },
+    "17944": {
+      "id": "17944",
+      "name": "Matthias Ruländer",
+      "profile_url": "https://www.transfermarkt.com/matthias-rulander/profil/spieler/17944",
+      "seasons": [
+        "88/89",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 88/89"
+      ]
+    },
+    "84195": {
+      "id": "84195",
+      "name": "Bernd Storck",
+      "profile_url": "https://www.transfermarkt.com/bernd-storck/profil/spieler/84195",
+      "seasons": [
+        "83/84",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 83/84"
+      ]
+    },
+    "84701": {
+      "id": "84701",
+      "name": "Norbert Dickel",
+      "profile_url": "https://www.transfermarkt.com/norbert-dickel/profil/spieler/84701",
+      "seasons": [
+        "86/87",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 86/87"
+      ]
+    },
+    "85593": {
+      "id": "85593",
+      "name": "Thomas Kroth",
+      "profile_url": "https://www.transfermarkt.com/thomas-kroth/profil/spieler/85593",
+      "seasons": [
+        "88/89",
+        "90/91"
+      ],
+      "transfers": [
+        "Ayrılış 90/91",
+        "Geliş 88/89"
+      ]
+    },
+    "77762": {
+      "id": "77762",
+      "name": "Dirk Hupe",
+      "profile_url": "https://www.transfermarkt.com/dirk-hupe/profil/spieler/77762",
+      "seasons": [
+        "85/86",
+        "89/90"
+      ],
+      "transfers": [
+        "Ayrılış 89/90",
+        "Geliş 85/86"
+      ]
+    },
+    "95887": {
+      "id": "95887",
+      "name": "Pato Margetic",
+      "profile_url": "https://www.transfermarkt.com/pato-margetic/profil/spieler/95887",
+      "seasons": [
+        "88/89",
+        "89/90"
+      ],
+      "transfers": [
+        "Ayrılış 89/90",
+        "Geliş 88/89"
+      ]
+    },
+    "95891": {
+      "id": "95891",
+      "name": "Oliver Roth",
+      "profile_url": "https://www.transfermarkt.com/oliver-roth/profil/spieler/95891",
+      "seasons": [
+        "88/89",
+        "89/90"
+      ],
+      "transfers": [
+        "Ayrılış 89/90",
+        "Geliş 88/89"
+      ]
+    },
+    "95899": {
+      "id": "95899",
+      "name": "Mark Strudal",
+      "profile_url": "https://www.transfermarkt.com/mark-strudal/profil/spieler/95899",
+      "seasons": [
+        "88/89",
+        "89/90"
+      ],
+      "transfers": [
+        "Ayrılış 89/90",
+        "Geliş 88/89"
+      ]
+    },
+    "22768": {
+      "id": "22768",
+      "name": "Alexander Conrad",
+      "profile_url": "https://www.transfermarkt.com/alexander-conrad/profil/spieler/22768",
+      "seasons": [
+        "88/89"
+      ],
+      "transfers": [
+        "Geliş 88/89"
+      ]
+    },
+    "92661": {
+      "id": "92661",
+      "name": "Maurice Banach",
+      "profile_url": "https://www.transfermarkt.com/maurice-banach/profil/spieler/92661",
+      "seasons": [
+        "86/87",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 86/87"
+      ]
+    },
+    "81747": {
+      "id": "81747",
+      "name": "Daniel Simmes",
+      "profile_url": "https://www.transfermarkt.com/daniel-simmes/profil/spieler/81747",
+      "seasons": [
+        "84/85",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 84/85"
+      ]
+    },
+    "1069": {
+      "id": "1069",
+      "name": "Adrian Spyrka",
+      "profile_url": "https://www.transfermarkt.com/adrian-spyrka/profil/spieler/1069",
+      "seasons": [
+        "86/87",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 86/87"
+      ]
+    },
+    "95048": {
+      "id": "95048",
+      "name": "Gerhard Kleppinger",
+      "profile_url": "https://www.transfermarkt.com/gerhard-kleppinger/profil/spieler/95048",
+      "seasons": [
+        "87/88",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 87/88"
+      ]
+    },
+    "95890": {
+      "id": "95890",
+      "name": "Marcel Răducanu",
+      "profile_url": "https://www.transfermarkt.com/marcel-raducanu/profil/spieler/95890",
+      "seasons": [
+        "81/82",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 81/82"
+      ]
+    },
+    "95876": {
+      "id": "95876",
+      "name": "Rupert Gerl",
+      "profile_url": "https://www.transfermarkt.com/rupert-gerl/profil/spieler/95876",
+      "seasons": [
+        "87/88",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 87/88"
+      ]
+    },
+    "6601": {
+      "id": "6601",
+      "name": "Ingo Anderbrügge",
+      "profile_url": "https://www.transfermarkt.com/ingo-anderbrugge/profil/spieler/6601",
+      "seasons": [
+        "84/85",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 84/85"
+      ]
+    },
+    "77340": {
+      "id": "77340",
+      "name": "Frank Pagelsdorf",
+      "profile_url": "https://www.transfermarkt.com/frank-pagelsdorf/profil/spieler/77340",
+      "seasons": [
+        "84/85",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 84/85"
+      ]
+    },
+    "387": {
+      "id": "387",
+      "name": "Torsten Wohlert",
+      "profile_url": "https://www.transfermarkt.com/torsten-wohlert/profil/spieler/387",
+      "seasons": [
+        "87/88",
+        "88/89"
+      ],
+      "transfers": [
+        "Ayrılış 88/89",
+        "Geliş 87/88"
+      ]
+    },
+    "95879": {
+      "id": "95879",
+      "name": "Andreas Hahn",
+      "profile_url": "https://www.transfermarkt.com/andreas-hahn/profil/spieler/95879",
+      "seasons": [
+        "85/86",
+        "87/88"
+      ],
+      "transfers": [
+        "Ayrılış 87/88",
+        "Geliş 85/86"
+      ]
+    },
+    "91659": {
+      "id": "91659",
+      "name": "Erdal Keser",
+      "profile_url": "https://www.transfermarkt.com/erdal-keser/profil/spieler/91659",
+      "seasons": [
+        "80/81",
+        "84/85",
+        "87/88"
+      ],
+      "transfers": [
+        "Ayrılış 87/88",
+        "Ayrılış 84/85",
+        "Geliş 80/81"
+      ]
+    },
+    "95029": {
+      "id": "95029",
+      "name": "Ulrich Bittcher",
+      "profile_url": "https://www.transfermarkt.com/ulrich-bittcher/profil/spieler/95029",
+      "seasons": [
+        "83/84",
+        "87/88"
+      ],
+      "transfers": [
+        "Ayrılış 87/88",
+        "Geliş 83/84"
+      ]
+    },
+    "73587": {
+      "id": "73587",
+      "name": "Eike Immel",
+      "profile_url": "https://www.transfermarkt.com/eike-immel/profil/spieler/73587",
+      "seasons": [
+        "78/79",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 78/79"
+      ]
+    },
+    "85560": {
+      "id": "85560",
+      "name": "Werner Dreßel",
+      "profile_url": "https://www.transfermarkt.com/werner-dressel/profil/spieler/85560",
+      "seasons": [
+        "83/84",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 83/84"
+      ]
+    },
+    "95896": {
+      "id": "95896",
+      "name": "Wolfgang Schüler",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-schuler/profil/spieler/95896",
+      "seasons": [
+        "84/85",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 84/85"
+      ]
+    },
+    "95886": {
+      "id": "95886",
+      "name": "Ralf Loose",
+      "profile_url": "https://www.transfermarkt.com/ralf-loose/profil/spieler/95886",
+      "seasons": [
+        "81/82",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 81/82"
+      ]
+    },
+    "95885": {
+      "id": "95885",
+      "name": "Tadeusz Krafft",
+      "profile_url": "https://www.transfermarkt.com/tadeusz-krafft/profil/spieler/95885",
+      "seasons": [
+        "85/86",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 85/86"
+      ]
+    },
+    "95882": {
+      "id": "95882",
+      "name": "Lothar Huber",
+      "profile_url": "https://www.transfermarkt.com/lothar-huber/profil/spieler/95882",
+      "seasons": [
+        "74/75",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 74/75"
+      ]
+    },
+    "85456": {
+      "id": "85456",
+      "name": "Horst Hrubesch",
+      "profile_url": "https://www.transfermarkt.com/horst-hrubesch/profil/spieler/85456",
+      "seasons": [
+        "85/86",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 85/86"
+      ]
+    },
+    "95883": {
+      "id": "95883",
+      "name": "Meinolf Koch",
+      "profile_url": "https://www.transfermarkt.com/meinolf-koch/profil/spieler/95883",
+      "seasons": [
+        "79/80",
+        "86/87"
+      ],
+      "transfers": [
+        "Ayrılış 86/87",
+        "Geliş 79/80"
+      ]
+    },
+    "149233": {
+      "id": "149233",
+      "name": "André Egli",
+      "profile_url": "https://www.transfermarkt.com/andre-egli/profil/spieler/149233",
+      "seasons": [
+        "84/85",
+        "85/86"
+      ],
+      "transfers": [
+        "Ayrılış 85/86",
+        "Geliş 84/85"
+      ]
+    },
+    "95904": {
+      "id": "95904",
+      "name": "Jakob Wein",
+      "profile_url": "https://www.transfermarkt.com/jakob-wein/profil/spieler/95904",
+      "seasons": [
+        "84/85",
+        "85/86"
+      ],
+      "transfers": [
+        "Ayrılış 85/86",
+        "Geliş 84/85"
+      ]
+    },
+    "95878": {
+      "id": "95878",
+      "name": "Michael Griehsbach",
+      "profile_url": "https://www.transfermarkt.com/michael-griehsbach/profil/spieler/95878",
+      "seasons": [
+        "84/85",
+        "85/86"
+      ],
+      "transfers": [
+        "Ayrılış 85/86",
+        "Geliş 84/85"
+      ]
+    },
+    "95888": {
+      "id": "95888",
+      "name": "Uwe Michel",
+      "profile_url": "https://www.transfermarkt.com/uwe-michel/profil/spieler/95888",
+      "seasons": [
+        "84/85",
+        "85/86"
+      ],
+      "transfers": [
+        "Ayrılış 85/86",
+        "Geliş 84/85"
+      ]
+    },
+    "95059": {
+      "id": "95059",
+      "name": "Rolf Rüssmann",
+      "profile_url": "https://www.transfermarkt.com/rolf-russmann/profil/spieler/95059",
+      "seasons": [
+        "80/81",
+        "85/86"
+      ],
+      "transfers": [
+        "Ayrılış 85/86",
+        "Geliş 80/81"
+      ]
+    },
+    "95903": {
+      "id": "95903",
+      "name": "Manfred Walz",
+      "profile_url": "https://www.transfermarkt.com/manfred-walz/profil/spieler/95903",
+      "seasons": [
+        "83/84",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 83/84"
+      ]
+    },
+    "84645": {
+      "id": "84645",
+      "name": "Bernd Klotz",
+      "profile_url": "https://www.transfermarkt.com/bernd-klotz/profil/spieler/84645",
+      "seasons": [
+        "81/82",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 81/82"
+      ]
+    },
+    "78330": {
+      "id": "78330",
+      "name": "Siegfried Reich",
+      "profile_url": "https://www.transfermarkt.com/siegfried-reich/profil/spieler/78330",
+      "seasons": [
+        "83/84",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 83/84"
+      ]
+    },
+    "88560": {
+      "id": "88560",
+      "name": "Franz-Josef Tenhagen",
+      "profile_url": "https://www.transfermarkt.com/franz-josef-tenhagen/profil/spieler/88560",
+      "seasons": [
+        "81/82",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 81/82"
+      ]
+    },
+    "95880": {
+      "id": "95880",
+      "name": "Herbert Hein",
+      "profile_url": "https://www.transfermarkt.com/herbert-hein/profil/spieler/95880",
+      "seasons": [
+        "78/79",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 78/79"
+      ]
+    },
+    "95897": {
+      "id": "95897",
+      "name": "Oswald Semlits",
+      "profile_url": "https://www.transfermarkt.com/oswald-semlits/profil/spieler/95897",
+      "seasons": [
+        "83/84",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 83/84"
+      ]
+    },
+    "95884": {
+      "id": "95884",
+      "name": "Harald Konopka",
+      "profile_url": "https://www.transfermarkt.com/harald-konopka/profil/spieler/95884",
+      "seasons": [
+        "83/84",
+        "84/85"
+      ],
+      "transfers": [
+        "Ayrılış 84/85",
+        "Geliş 83/84"
+      ]
+    },
+    "95893": {
+      "id": "95893",
+      "name": "Fred Schaub",
+      "profile_url": "https://www.transfermarkt.com/fred-schaub/profil/spieler/95893",
+      "seasons": [
+        "83/84"
+      ],
+      "transfers": [
+        "Geliş 83/84",
+        "Ayrılış 83/84"
+      ]
+    },
+    "112162": {
+      "id": "112162",
+      "name": "Andreas Asche",
+      "profile_url": "https://www.transfermarkt.com/andreas-asche/profil/spieler/112162",
+      "seasons": [
+        "83/84"
+      ],
+      "transfers": [
+        "Geliş 83/84",
+        "Ayrılış 83/84"
+      ]
+    },
+    "13767": {
+      "id": "13767",
+      "name": "Manfred Burgsmüller",
+      "profile_url": "https://www.transfermarkt.com/manfred-burgsmuller/profil/spieler/13767",
+      "seasons": [
+        "76/77",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 76/77"
+      ]
+    },
+    "95881": {
+      "id": "95881",
+      "name": "Jörg Horn",
+      "profile_url": "https://www.transfermarkt.com/jorg-horn/profil/spieler/95881",
+      "seasons": [
+        "82/83",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 82/83"
+      ]
+    },
+    "71318": {
+      "id": "71318",
+      "name": "Rüdiger Abramczik",
+      "profile_url": "https://www.transfermarkt.com/rudiger-abramczik/profil/spieler/71318",
+      "seasons": [
+        "80/81",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 80/81"
+      ]
+    },
+    "95868": {
+      "id": "95868",
+      "name": "Horst Bertram",
+      "profile_url": "https://www.transfermarkt.com/horst-bertram/profil/spieler/95868",
+      "seasons": [
+        "71/72",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 71/72"
+      ]
+    },
+    "95871": {
+      "id": "95871",
+      "name": "Siegfried Bönighausen",
+      "profile_url": "https://www.transfermarkt.com/siegfried-bonighausen/profil/spieler/95871",
+      "seasons": [
+        "80/81",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 80/81"
+      ]
+    },
+    "95875": {
+      "id": "95875",
+      "name": "Horst Freund",
+      "profile_url": "https://www.transfermarkt.com/horst-freund/profil/spieler/95875",
+      "seasons": [
+        "79/80",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 79/80"
+      ]
+    },
+    "96265": {
+      "id": "96265",
+      "name": "Hans-Joachim Wagner",
+      "profile_url": "https://www.transfermarkt.com/hans-joachim-wagner/profil/spieler/96265",
+      "seasons": [
+        "74/75",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 74/75"
+      ]
+    },
+    "84045": {
+      "id": "84045",
+      "name": "Heinz-Werner Eggeling",
+      "profile_url": "https://www.transfermarkt.com/heinz-werner-eggeling/profil/spieler/84045",
+      "seasons": [
+        "81/82",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 81/82"
+      ]
+    },
+    "95894": {
+      "id": "95894",
+      "name": "Franz-Josef Schmedding",
+      "profile_url": "https://www.transfermarkt.com/franz-josef-schmedding/profil/spieler/95894",
+      "seasons": [
+        "82/83",
+        "83/84"
+      ],
+      "transfers": [
+        "Ayrılış 83/84",
+        "Geliş 82/83"
+      ]
+    },
+    "22541": {
+      "id": "22541",
+      "name": "Mirko Votava",
+      "profile_url": "https://www.transfermarkt.com/mirko-votava/profil/spieler/22541",
+      "seasons": [
+        "73/74",
+        "82/83"
+      ],
+      "transfers": [
+        "Ayrılış 82/83",
+        "Geliş 73/74"
+      ]
+    },
+    "17401": {
+      "id": "17401",
+      "name": "Theo Schneider",
+      "profile_url": "https://www.transfermarkt.com/theo-schneider/profil/spieler/17401",
+      "seasons": [
+        "79/80",
+        "82/83"
+      ],
+      "transfers": [
+        "Ayrılış 82/83",
+        "Geliş 79/80"
+      ]
+    },
+    "95867": {
+      "id": "95867",
+      "name": "Magnús Bergs",
+      "profile_url": "https://www.transfermarkt.com/magnus-bergs/profil/spieler/95867",
+      "seasons": [
+        "80/81",
+        "82/83"
+      ],
+      "transfers": [
+        "Ayrılış 82/83",
+        "Geliş 80/81"
+      ]
+    },
+    "95270": {
+      "id": "95270",
+      "name": "Jürgen Sobieray",
+      "profile_url": "https://www.transfermarkt.com/jurgen-sobieray/profil/spieler/95270",
+      "seasons": [
+        "80/81",
+        "82/83"
+      ],
+      "transfers": [
+        "Ayrılış 82/83",
+        "Geliş 80/81"
+      ]
+    },
+    "95091": {
+      "id": "95091",
+      "name": "Norbert Dörmann",
+      "profile_url": "https://www.transfermarkt.com/norbert-dormann/profil/spieler/95091",
+      "seasons": [
+        "79/80",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 79/80"
+      ]
+    },
+    "95866": {
+      "id": "95866",
+      "name": "Ralf Augustin",
+      "profile_url": "https://www.transfermarkt.com/ralf-augustin/profil/spieler/95866",
+      "seasons": [
+        "78/79",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 78/79"
+      ]
+    },
+    "95902": {
+      "id": "95902",
+      "name": "Rudolf Wabra",
+      "profile_url": "https://www.transfermarkt.com/rudolf-wabra/profil/spieler/95902",
+      "seasons": [
+        "80/81",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 80/81"
+      ]
+    },
+    "95872": {
+      "id": "95872",
+      "name": "Atli Edvaldsson",
+      "profile_url": "https://www.transfermarkt.com/atli-edvaldsson/profil/spieler/95872",
+      "seasons": [
+        "80/81",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 80/81"
+      ]
+    },
+    "95877": {
+      "id": "95877",
+      "name": "Peter Geyer",
+      "profile_url": "https://www.transfermarkt.com/peter-geyer/profil/spieler/95877",
+      "seasons": [
+        "75/76",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 75/76"
+      ]
+    },
+    "84054": {
+      "id": "84054",
+      "name": "Paul Holz",
+      "profile_url": "https://www.transfermarkt.com/paul-holz/profil/spieler/84054",
+      "seasons": [
+        "79/80",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 79/80"
+      ]
+    },
+    "95895": {
+      "id": "95895",
+      "name": "Werner Schneider",
+      "profile_url": "https://www.transfermarkt.com/werner-schneider/profil/spieler/95895",
+      "seasons": [
+        "77/78",
+        "81/82"
+      ],
+      "transfers": [
+        "Ayrılış 81/82",
+        "Geliş 77/78"
+      ]
+    },
+    "95874": {
+      "id": "95874",
+      "name": "Wolfgang Frank",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-frank/profil/spieler/95874",
+      "seasons": [
+        "77/78",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 77/78"
+      ]
+    },
+    "95869": {
+      "id": "95869",
+      "name": "Karl Bracklow",
+      "profile_url": "https://www.transfermarkt.com/karl-bracklow/profil/spieler/95869",
+      "seasons": [
+        "79/80",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 79/80"
+      ]
+    },
+    "95901": {
+      "id": "95901",
+      "name": "Wolfgang Vöge",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-voge/profil/spieler/95901",
+      "seasons": [
+        "75/76",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 75/76"
+      ]
+    },
+    "96264": {
+      "id": "96264",
+      "name": "Amand Theis",
+      "profile_url": "https://www.transfermarkt.com/amand-theis/profil/spieler/96264",
+      "seasons": [
+        "77/78",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 77/78"
+      ]
+    },
+    "95892": {
+      "id": "95892",
+      "name": "Norbert Runge",
+      "profile_url": "https://www.transfermarkt.com/norbert-runge/profil/spieler/95892",
+      "seasons": [
+        "78/79",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 78/79"
+      ]
+    },
+    "95898": {
+      "id": "95898",
+      "name": "Joachim Siwek",
+      "profile_url": "https://www.transfermarkt.com/joachim-siwek/profil/spieler/95898",
+      "seasons": [
+        "77/78",
+        "79/80",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Ayrılış 79/80",
+        "Geliş 77/78"
+      ]
+    },
+    "89937": {
+      "id": "89937",
+      "name": "Herbert Meyer",
+      "profile_url": "https://www.transfermarkt.com/herbert-meyer/profil/spieler/89937",
+      "seasons": [
+        "76/77",
+        "80/81"
+      ],
+      "transfers": [
+        "Ayrılış 80/81",
+        "Geliş 76/77"
+      ]
+    },
+    "96263": {
+      "id": "96263",
+      "name": "Burghard Segler",
+      "profile_url": "https://www.transfermarkt.com/burghard-segler/profil/spieler/96263",
+      "seasons": [
+        "73/74",
+        "79/80"
+      ],
+      "transfers": [
+        "Ayrılış 79/80",
+        "Geliş 73/74"
+      ]
+    },
+    "96268": {
+      "id": "96268",
+      "name": "Sigfried Held",
+      "profile_url": "https://www.transfermarkt.com/sigfried-held/profil/spieler/96268",
+      "seasons": [
+        "65/66",
+        "71/72",
+        "77/78",
+        "79/80"
+      ],
+      "transfers": [
+        "Ayrılış 79/80",
+        "Geliş 77/78",
+        "Ayrılış 71/72",
+        "Geliş 65/66"
+      ]
+    },
+    "378027": {
+      "id": "378027",
+      "name": "Ralf Weber",
+      "profile_url": "https://www.transfermarkt.com/ralf-weber/profil/spieler/378027",
+      "seasons": [
+        "78/79",
+        "79/80"
+      ],
+      "transfers": [
+        "Ayrılış 79/80",
+        "Geliş 78/79"
+      ]
+    },
+    "96266": {
+      "id": "96266",
+      "name": "Klaus Ackermann",
+      "profile_url": "https://www.transfermarkt.com/klaus-ackermann/profil/spieler/96266",
+      "seasons": [
+        "74/75",
+        "79/80"
+      ],
+      "transfers": [
+        "Ayrılış 79/80",
+        "Geliş 74/75"
+      ]
+    },
+    "96271": {
+      "id": "96271",
+      "name": "Detlef Meyer",
+      "profile_url": "https://www.transfermarkt.com/detlef-meyer/profil/spieler/96271",
+      "seasons": [
+        "78/79",
+        "79/80"
+      ],
+      "transfers": [
+        "Ayrılış 79/80",
+        "Geliş 78/79"
+      ]
+    },
+    "36297": {
+      "id": "36297",
+      "name": "Erwin Kostedde",
+      "profile_url": "https://www.transfermarkt.com/erwin-kostedde/profil/spieler/36297",
+      "seasons": [
+        "76/77",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 76/77"
+      ]
+    },
+    "96273": {
+      "id": "96273",
+      "name": "Egwin Wolf",
+      "profile_url": "https://www.transfermarkt.com/egwin-wolf/profil/spieler/96273",
+      "seasons": [
+        "72/73",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 72/73"
+      ]
+    },
+    "96272": {
+      "id": "96272",
+      "name": "Willi Lippens",
+      "profile_url": "https://www.transfermarkt.com/willi-lippens/profil/spieler/96272",
+      "seasons": [
+        "76/77",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 76/77"
+      ]
+    },
+    "95094": {
+      "id": "95094",
+      "name": "Peter Endrulat",
+      "profile_url": "https://www.transfermarkt.com/peter-endrulat/profil/spieler/95094",
+      "seasons": [
+        "76/77",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 76/77"
+      ]
+    },
+    "95532": {
+      "id": "95532",
+      "name": "Helmut Nerlinger",
+      "profile_url": "https://www.transfermarkt.com/helmut-nerlinger/profil/spieler/95532",
+      "seasons": [
+        "72/73",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 72/73"
+      ]
+    },
+    "96284": {
+      "id": "96284",
+      "name": "Dietmar Otto",
+      "profile_url": "https://www.transfermarkt.com/dietmar-otto/profil/spieler/96284",
+      "seasons": [
+        "76/77",
+        "78/79"
+      ],
+      "transfers": [
+        "Ayrılış 78/79",
+        "Geliş 76/77"
+      ]
+    },
+    "95110": {
+      "id": "95110",
+      "name": "Gerd Kasperski",
+      "profile_url": "https://www.transfermarkt.com/gerd-kasperski/profil/spieler/95110",
+      "seasons": [
+        "75/76",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 75/76"
+      ]
+    },
+    "84053": {
+      "id": "84053",
+      "name": "Hans-Werner Hartl",
+      "profile_url": "https://www.transfermarkt.com/hans-werner-hartl/profil/spieler/84053",
+      "seasons": [
+        "73/74",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 73/74"
+      ]
+    },
+    "89896": {
+      "id": "89896",
+      "name": "Hans-Gerd Schildt",
+      "profile_url": "https://www.transfermarkt.com/hans-gerd-schildt/profil/spieler/89896",
+      "seasons": [
+        "74/75",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 74/75"
+      ]
+    },
+    "96277": {
+      "id": "96277",
+      "name": "Peter Fraßmann",
+      "profile_url": "https://www.transfermarkt.com/peter-frassmann/profil/spieler/96277",
+      "seasons": [
+        "76/77",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 76/77"
+      ]
+    },
+    "96281": {
+      "id": "96281",
+      "name": "Bernd Krauss",
+      "profile_url": "https://www.transfermarkt.com/bernd-krauss/profil/spieler/96281",
+      "seasons": [
+        "76/77",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 76/77"
+      ]
+    },
+    "96287": {
+      "id": "96287",
+      "name": "Friedhelm Schwarze",
+      "profile_url": "https://www.transfermarkt.com/friedhelm-schwarze/profil/spieler/96287",
+      "seasons": [
+        "72/73",
+        "77/78"
+      ],
+      "transfers": [
+        "Ayrılış 77/78",
+        "Geliş 72/73"
+      ]
+    },
+    "96286": {
+      "id": "96286",
+      "name": "Ernst Savkovic",
+      "profile_url": "https://www.transfermarkt.com/ernst-savkovic/profil/spieler/96286",
+      "seasons": [
+        "74/75",
+        "76/77"
+      ],
+      "transfers": [
+        "Ayrılış 76/77",
+        "Geliş 74/75"
+      ]
+    },
+    "96276": {
+      "id": "96276",
+      "name": "Willi Brock",
+      "profile_url": "https://www.transfermarkt.com/willi-brock/profil/spieler/96276",
+      "seasons": [
+        "74/75",
+        "76/77"
+      ],
+      "transfers": [
+        "Ayrılış 76/77",
+        "Geliş 74/75"
+      ]
+    },
+    "96288": {
+      "id": "96288",
+      "name": "Zoltán Varga",
+      "profile_url": "https://www.transfermarkt.com/zoltan-varga/profil/spieler/96288",
+      "seasons": [
+        "74/75",
+        "76/77"
+      ],
+      "transfers": [
+        "Ayrılış 76/77",
+        "Geliş 74/75",
+        "Ayrılış 74/75"
+      ]
+    },
+    "96275": {
+      "id": "96275",
+      "name": "Wolfgang Berg",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-berg/profil/spieler/96275",
+      "seasons": [
+        "72/73",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 72/73"
+      ]
+    },
+    "96278": {
+      "id": "96278",
+      "name": "Dieter Goldbach",
+      "profile_url": "https://www.transfermarkt.com/dieter-goldbach/profil/spieler/96278",
+      "seasons": [
+        "74/75",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 74/75"
+      ]
+    },
+    "96279": {
+      "id": "96279",
+      "name": "Hans-Dieter Greif",
+      "profile_url": "https://www.transfermarkt.com/hans-dieter-greif/profil/spieler/96279",
+      "seasons": [
+        "74/75",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 74/75"
+      ]
+    },
+    "96280": {
+      "id": "96280",
+      "name": "Klaus Grunendahl",
+      "profile_url": "https://www.transfermarkt.com/klaus-grunendahl/profil/spieler/96280",
+      "seasons": [
+        "74/75",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 74/75"
+      ]
+    },
+    "96289": {
+      "id": "96289",
+      "name": "Josef Votava",
+      "profile_url": "https://www.transfermarkt.com/josef-votava/profil/spieler/96289",
+      "seasons": [
+        "73/74",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 73/74"
+      ]
+    },
+    "96285": {
+      "id": "96285",
+      "name": "Dieter Renfert",
+      "profile_url": "https://www.transfermarkt.com/dieter-renfert/profil/spieler/96285",
+      "seasons": [
+        "74/75",
+        "75/76"
+      ],
+      "transfers": [
+        "Ayrılış 75/76",
+        "Geliş 74/75"
+      ]
+    },
+    "96551": {
+      "id": "96551",
+      "name": "Edwin Bakine",
+      "profile_url": "https://www.transfermarkt.com/edwin-bakine/profil/spieler/96551",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "96553": {
+      "id": "96553",
+      "name": "Eckhard Berlau-Kirschstein",
+      "profile_url": "https://www.transfermarkt.com/eckhard-berlau-kirschstein/profil/spieler/96553",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "94042": {
+      "id": "94042",
+      "name": "Horst Bertl",
+      "profile_url": "https://www.transfermarkt.com/horst-bertl/profil/spieler/94042",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "96585": {
+      "id": "96585",
+      "name": "Willi Mumme",
+      "profile_url": "https://www.transfermarkt.com/willi-mumme/profil/spieler/96585",
+      "seasons": [
+        "73/74",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 73/74"
+      ]
+    },
+    "96559": {
+      "id": "96559",
+      "name": "Karl-Heinz Brücken",
+      "profile_url": "https://www.transfermarkt.com/karl-heinz-brucken/profil/spieler/96559",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "96562": {
+      "id": "96562",
+      "name": "Peter Czernotzky",
+      "profile_url": "https://www.transfermarkt.com/peter-czernotzky/profil/spieler/96562",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "96597": {
+      "id": "96597",
+      "name": "Jürgen Rynio",
+      "profile_url": "https://www.transfermarkt.com/jurgen-rynio/profil/spieler/96597",
+      "seasons": [
+        "69/70",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 69/70"
+      ]
+    },
+    "95539": {
+      "id": "95539",
+      "name": "Helmut Schmidt",
+      "profile_url": "https://www.transfermarkt.com/helmut-schmidt/profil/spieler/95539",
+      "seasons": [
+        "72/73",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 72/73"
+      ]
+    },
+    "173334": {
+      "id": "173334",
+      "name": "Manfred Balcerzak",
+      "profile_url": "https://www.transfermarkt.com/manfred-balcerzak/profil/spieler/173334",
+      "seasons": [
+        "73/74",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 73/74"
+      ]
+    },
+    "383145": {
+      "id": "383145",
+      "name": "Hans-Jürgen Tschirna",
+      "profile_url": "https://www.transfermarkt.com/hans-jurgen-tschirna/profil/spieler/383145",
+      "seasons": [
+        "73/74",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 73/74"
+      ]
+    },
+    "383882": {
+      "id": "383882",
+      "name": "Lothar Geschwendt",
+      "profile_url": "https://www.transfermarkt.com/lothar-geschwendt/profil/spieler/383882",
+      "seasons": [
+        "73/74",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 73/74"
+      ]
+    },
+    "96594": {
+      "id": "96594",
+      "name": "Branko Rašović",
+      "profile_url": "https://www.transfermarkt.com/branko-rasovic/profil/spieler/96594",
+      "seasons": [
+        "69/70",
+        "74/75"
+      ],
+      "transfers": [
+        "Ayrılış 74/75",
+        "Geliş 69/70"
+      ]
+    },
+    "95032": {
+      "id": "95032",
+      "name": "Theo Bücker",
+      "profile_url": "https://www.transfermarkt.com/theo-bucker/profil/spieler/95032",
+      "seasons": [
+        "69/70",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 69/70"
+      ]
+    },
+    "96608": {
+      "id": "96608",
+      "name": "Jürgen Wilhelm",
+      "profile_url": "https://www.transfermarkt.com/jurgen-wilhelm/profil/spieler/96608",
+      "seasons": [
+        "71/72",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 71/72"
+      ]
+    },
+    "96549": {
+      "id": "96549",
+      "name": "Hans-Joachim Andree",
+      "profile_url": "https://www.transfermarkt.com/hans-joachim-andree/profil/spieler/96549",
+      "seasons": [
+        "70/71",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 70/71"
+      ]
+    },
+    "96587": {
+      "id": "96587",
+      "name": "Klaus Ondera",
+      "profile_url": "https://www.transfermarkt.com/klaus-ondera/profil/spieler/96587",
+      "seasons": [
+        "72/73",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 72/73"
+      ]
+    },
+    "96581": {
+      "id": "96581",
+      "name": "Günter Mach",
+      "profile_url": "https://www.transfermarkt.com/gunter-mach/profil/spieler/96581",
+      "seasons": [
+        "72/73",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 72/73"
+      ]
+    },
+    "96579": {
+      "id": "96579",
+      "name": "Siegfried Köstler",
+      "profile_url": "https://www.transfermarkt.com/siegfried-kostler/profil/spieler/96579",
+      "seasons": [
+        "71/72",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 71/72"
+      ]
+    },
+    "96588": {
+      "id": "96588",
+      "name": "Gerhard Pawlowski",
+      "profile_url": "https://www.transfermarkt.com/gerhard-pawlowski/profil/spieler/96588",
+      "seasons": [
+        "72/73",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 72/73"
+      ]
+    },
+    "96589": {
+      "id": "96589",
+      "name": "Gerd Peehs",
+      "profile_url": "https://www.transfermarkt.com/gerd-peehs/profil/spieler/96589",
+      "seasons": [
+        "66/67",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 66/67"
+      ]
+    },
+    "95049": {
+      "id": "95049",
+      "name": "Werner Lorant",
+      "profile_url": "https://www.transfermarkt.com/werner-lorant/profil/spieler/95049",
+      "seasons": [
+        "71/72",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 71/72"
+      ]
+    },
+    "96975": {
+      "id": "96975",
+      "name": "Dieter Kurrat",
+      "profile_url": "https://www.transfermarkt.com/dieter-kurrat/profil/spieler/96975",
+      "seasons": [
+        "60/61",
+        "73/74"
+      ],
+      "transfers": [
+        "Ayrılış 73/74",
+        "Geliş 60/61"
+      ]
+    },
+    "96590": {
+      "id": "96590",
+      "name": "Ingo Peter",
+      "profile_url": "https://www.transfermarkt.com/ingo-peter/profil/spieler/96590",
+      "seasons": [
+        "70/71",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 70/71"
+      ]
+    },
+    "96600": {
+      "id": "96600",
+      "name": "Alfons Sikora",
+      "profile_url": "https://www.transfermarkt.com/alfons-sikora/profil/spieler/96600",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "95143": {
+      "id": "95143",
+      "name": "Manfred Ritschel",
+      "profile_url": "https://www.transfermarkt.com/manfred-ritschel/profil/spieler/95143",
+      "seasons": [
+        "70/71",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 70/71"
+      ]
+    },
+    "96606": {
+      "id": "96606",
+      "name": "Dieter Weinkauff",
+      "profile_url": "https://www.transfermarkt.com/dieter-weinkauff/profil/spieler/96606",
+      "seasons": [
+        "70/71",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 70/71"
+      ]
+    },
+    "96571": {
+      "id": "96571",
+      "name": "Karl-Heinz Henke",
+      "profile_url": "https://www.transfermarkt.com/karl-heinz-henke/profil/spieler/96571",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96573": {
+      "id": "96573",
+      "name": "Walter Hohnhausen",
+      "profile_url": "https://www.transfermarkt.com/walter-hohnhausen/profil/spieler/96573",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96595": {
+      "id": "96595",
+      "name": "Theodor Rieländer",
+      "profile_url": "https://www.transfermarkt.com/theodor-rielander/profil/spieler/96595",
+      "seasons": [
+        "69/70",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 69/70"
+      ]
+    },
+    "118978": {
+      "id": "118978",
+      "name": "Dieter Mietz",
+      "profile_url": "https://www.transfermarkt.com/dieter-mietz/profil/spieler/118978",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96583": {
+      "id": "96583",
+      "name": "Friedel Mensink",
+      "profile_url": "https://www.transfermarkt.com/friedel-mensink/profil/spieler/96583",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96593": {
+      "id": "96593",
+      "name": "Wolfgang Przygodda",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-przygodda/profil/spieler/96593",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96599": {
+      "id": "96599",
+      "name": "Jürgen Schütz",
+      "profile_url": "https://www.transfermarkt.com/jurgen-schutz/profil/spieler/96599",
+      "seasons": [
+        "59/60",
+        "63/64",
+        "69/70",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 69/70",
+        "Ayrılış 63/64",
+        "Geliş 59/60"
+      ]
+    },
+    "96582": {
+      "id": "96582",
+      "name": "Reinhold Mathes",
+      "profile_url": "https://www.transfermarkt.com/reinhold-mathes/profil/spieler/96582",
+      "seasons": [
+        "71/72",
+        "72/73"
+      ],
+      "transfers": [
+        "Ayrılış 72/73",
+        "Geliş 71/72"
+      ]
+    },
+    "96565": {
+      "id": "96565",
+      "name": "Reinhard Fabisch",
+      "profile_url": "https://www.transfermarkt.com/reinhard-fabisch/profil/spieler/96565",
+      "seasons": [
+        "69/70",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 69/70"
+      ]
+    },
+    "96602": {
+      "id": "96602",
+      "name": "Wilhelm Sturm",
+      "profile_url": "https://www.transfermarkt.com/wilhelm-sturm/profil/spieler/96602",
+      "seasons": [
+        "61/62",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 61/62"
+      ]
+    },
+    "89870": {
+      "id": "89870",
+      "name": "Werner Weist",
+      "profile_url": "https://www.transfermarkt.com/werner-weist/profil/spieler/89870",
+      "seasons": [
+        "68/69",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 68/69"
+      ]
+    },
+    "89891": {
+      "id": "89891",
+      "name": "Willi Neuberger",
+      "profile_url": "https://www.transfermarkt.com/willi-neuberger/profil/spieler/89891",
+      "seasons": [
+        "66/67",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 66/67"
+      ]
+    },
+    "84076": {
+      "id": "84076",
+      "name": "Reinhold Wosab",
+      "profile_url": "https://www.transfermarkt.com/reinhold-wosab/profil/spieler/84076",
+      "seasons": [
+        "62/63",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 62/63"
+      ]
+    },
+    "96555": {
+      "id": "96555",
+      "name": "Jürgen Boduszek",
+      "profile_url": "https://www.transfermarkt.com/jurgen-boduszek/profil/spieler/96555",
+      "seasons": [
+        "69/70",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 69/70"
+      ]
+    },
+    "96557": {
+      "id": "96557",
+      "name": "Klaus Brakelmann",
+      "profile_url": "https://www.transfermarkt.com/klaus-brakelmann/profil/spieler/96557",
+      "seasons": [
+        "67/68",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 67/68"
+      ]
+    },
+    "96568": {
+      "id": "96568",
+      "name": "Klaus Günther",
+      "profile_url": "https://www.transfermarkt.com/klaus-gunther/profil/spieler/96568",
+      "seasons": [
+        "68/69",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 68/69"
+      ]
+    },
+    "96570": {
+      "id": "96570",
+      "name": "Ferdinand Heidkamp",
+      "profile_url": "https://www.transfermarkt.com/ferdinand-heidkamp/profil/spieler/96570",
+      "seasons": [
+        "69/70",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 69/70"
+      ]
+    },
+    "96605": {
+      "id": "96605",
+      "name": "Horst Trimhold",
+      "profile_url": "https://www.transfermarkt.com/horst-trimhold/profil/spieler/96605",
+      "seasons": [
+        "66/67",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 66/67"
+      ]
+    },
+    "108460": {
+      "id": "108460",
+      "name": "Wolfgang Paul",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-paul/profil/spieler/108460",
+      "seasons": [
+        "61/62",
+        "71/72"
+      ],
+      "transfers": [
+        "Ayrılış 71/72",
+        "Geliş 61/62"
+      ]
+    },
+    "96550": {
+      "id": "96550",
+      "name": "Karl-Heinz Artmann",
+      "profile_url": "https://www.transfermarkt.com/karl-heinz-artmann/profil/spieler/96550",
+      "seasons": [
+        "69/70",
+        "70/71"
+      ],
+      "transfers": [
+        "Ayrılış 70/71",
+        "Geliş 69/70"
+      ]
+    },
+    "96564": {
+      "id": "96564",
+      "name": "Dietmar Erler",
+      "profile_url": "https://www.transfermarkt.com/dietmar-erler/profil/spieler/96564",
+      "seasons": [
+        "68/69",
+        "70/71"
+      ],
+      "transfers": [
+        "Ayrılış 70/71",
+        "Geliş 68/69"
+      ]
+    },
+    "96569": {
+      "id": "96569",
+      "name": "Helmut Heeren",
+      "profile_url": "https://www.transfermarkt.com/helmut-heeren/profil/spieler/96569",
+      "seasons": [
+        "68/69",
+        "70/71"
+      ],
+      "transfers": [
+        "Ayrılış 70/71",
+        "Geliş 68/69"
+      ]
+    },
+    "96575": {
+      "id": "96575",
+      "name": "Alfred Kohlhäufl",
+      "profile_url": "https://www.transfermarkt.com/alfred-kohlhaufl/profil/spieler/96575",
+      "seasons": [
+        "69/70",
+        "70/71"
+      ],
+      "transfers": [
+        "Ayrılış 70/71",
+        "Geliş 69/70"
+      ]
+    },
+    "96563": {
+      "id": "96563",
+      "name": "Lothar Emmerich",
+      "profile_url": "https://www.transfermarkt.com/lothar-emmerich/profil/spieler/96563",
+      "seasons": [
+        "60/61",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 60/61"
+      ]
+    },
+    "13762": {
+      "id": "13762",
+      "name": "Rudi Assauer",
+      "profile_url": "https://www.transfermarkt.com/rudi-assauer/profil/spieler/13762",
+      "seasons": [
+        "64/65",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 64/65"
+      ]
+    },
+    "96580": {
+      "id": "96580",
+      "name": "Friedrich Lehmann",
+      "profile_url": "https://www.transfermarkt.com/friedrich-lehmann/profil/spieler/96580",
+      "seasons": [
+        "68/69",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 68/69"
+      ]
+    },
+    "96552": {
+      "id": "96552",
+      "name": "Klaus Beckfeld",
+      "profile_url": "https://www.transfermarkt.com/klaus-beckfeld/profil/spieler/96552",
+      "seasons": [
+        "68/69",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 68/69"
+      ]
+    },
+    "96567": {
+      "id": "96567",
+      "name": "Friedhelm Groppe",
+      "profile_url": "https://www.transfermarkt.com/friedhelm-groppe/profil/spieler/96567",
+      "seasons": [
+        "64/65",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 64/65"
+      ]
+    },
+    "96603": {
+      "id": "96603",
+      "name": "Walter Szaule",
+      "profile_url": "https://www.transfermarkt.com/walter-szaule/profil/spieler/96603",
+      "seasons": [
+        "68/69",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 68/69"
+      ]
+    },
+    "96572": {
+      "id": "96572",
+      "name": "Josef Hofmeister",
+      "profile_url": "https://www.transfermarkt.com/josef-hofmeister/profil/spieler/96572",
+      "seasons": [
+        "67/68",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 67/68"
+      ]
+    },
+    "96607": {
+      "id": "96607",
+      "name": "Bernhard Wessel",
+      "profile_url": "https://www.transfermarkt.com/bernhard-wessel/profil/spieler/96607",
+      "seasons": [
+        "61/62",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 61/62"
+      ]
+    },
+    "108461": {
+      "id": "108461",
+      "name": "Theodor Redder",
+      "profile_url": "https://www.transfermarkt.com/theodor-redder/profil/spieler/108461",
+      "seasons": [
+        "62/63",
+        "69/70"
+      ],
+      "transfers": [
+        "Ayrılış 69/70",
+        "Geliş 62/63"
+      ]
+    },
+    "96586": {
+      "id": "96586",
+      "name": "Udo Ockmann",
+      "profile_url": "https://www.transfermarkt.com/udo-ockmann/profil/spieler/96586",
+      "seasons": [
+        "64/65",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 64/65"
+      ]
+    },
+    "95123": {
+      "id": "95123",
+      "name": "Stan Libuda",
+      "profile_url": "https://www.transfermarkt.com/stan-libuda/profil/spieler/95123",
+      "seasons": [
+        "65/66",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 65/66"
+      ]
+    },
+    "96592": {
+      "id": "96592",
+      "name": "Manfred Pfeiffer",
+      "profile_url": "https://www.transfermarkt.com/manfred-pfeiffer/profil/spieler/96592",
+      "seasons": [
+        "63/64",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 63/64"
+      ]
+    },
+    "96578": {
+      "id": "96578",
+      "name": "Werner Köddermann",
+      "profile_url": "https://www.transfermarkt.com/werner-koddermann/profil/spieler/96578",
+      "seasons": [
+        "67/68",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 67/68"
+      ]
+    },
+    "89965": {
+      "id": "89965",
+      "name": "Jürgen Weber",
+      "profile_url": "https://www.transfermarkt.com/jurgen-weber/profil/spieler/89965",
+      "seasons": [
+        "65/66",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 65/66"
+      ]
+    },
+    "96561": {
+      "id": "96561",
+      "name": "Gerhard Cyliax",
+      "profile_url": "https://www.transfermarkt.com/gerhard-cyliax/profil/spieler/96561",
+      "seasons": [
+        "59/60",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 59/60"
+      ]
+    },
+    "96598": {
+      "id": "96598",
+      "name": "Aki Schmidt",
+      "profile_url": "https://www.transfermarkt.com/aki-schmidt/profil/spieler/96598",
+      "seasons": [
+        "55/56",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 55/56"
+      ]
+    },
+    "177704": {
+      "id": "177704",
+      "name": "Horst Koschmieder",
+      "profile_url": "https://www.transfermarkt.com/horst-koschmieder/profil/spieler/177704",
+      "seasons": [
+        "67/68",
+        "68/69"
+      ],
+      "transfers": [
+        "Ayrılış 68/69",
+        "Geliş 67/68"
+      ]
+    },
+    "96604": {
+      "id": "96604",
+      "name": "Hans Tilkowski",
+      "profile_url": "https://www.transfermarkt.com/hans-tilkowski/profil/spieler/96604",
+      "seasons": [
+        "62/63",
+        "67/68"
+      ],
+      "transfers": [
+        "Ayrılış 67/68",
+        "Geliş 62/63"
+      ]
+    },
+    "96566": {
+      "id": "96566",
+      "name": "Lothar Geisler",
+      "profile_url": "https://www.transfermarkt.com/lothar-geisler/profil/spieler/96566",
+      "seasons": [
+        "59/60",
+        "67/68"
+      ],
+      "transfers": [
+        "Ayrılış 67/68",
+        "Geliş 59/60"
+      ]
+    },
+    "96584": {
+      "id": "96584",
+      "name": "Willibald Mikulasch",
+      "profile_url": "https://www.transfermarkt.com/willibald-mikulasch/profil/spieler/96584",
+      "seasons": [
+        "66/67",
+        "67/68"
+      ],
+      "transfers": [
+        "Ayrılış 67/68",
+        "Geliş 66/67"
+      ]
+    },
+    "1278629": {
+      "id": "1278629",
+      "name": "Hans-Martin Wendlandt",
+      "profile_url": "https://www.transfermarkt.com/hans-martin-wendlandt/profil/spieler/1278629",
+      "seasons": [
+        "67/68"
+      ],
+      "transfers": [
+        "Ayrılış 67/68"
+      ]
+    },
+    "96554": {
+      "id": "96554",
+      "name": "Harald Beyer",
+      "profile_url": "https://www.transfermarkt.com/harald-beyer/profil/spieler/96554",
+      "seasons": [
+        "64/65",
+        "66/67"
+      ],
+      "transfers": [
+        "Ayrılış 66/67",
+        "Geliş 64/65"
+      ]
+    },
+    "96601": {
+      "id": "96601",
+      "name": "Hermann Straschitz",
+      "profile_url": "https://www.transfermarkt.com/hermann-straschitz/profil/spieler/96601",
+      "seasons": [
+        "64/65",
+        "66/67"
+      ],
+      "transfers": [
+        "Ayrılış 66/67",
+        "Geliş 64/65"
+      ]
+    },
+    "96558": {
+      "id": "96558",
+      "name": "Franz Brungs",
+      "profile_url": "https://www.transfermarkt.com/franz-brungs/profil/spieler/96558",
+      "seasons": [
+        "63/64",
+        "65/66"
+      ],
+      "transfers": [
+        "Ayrılış 65/66",
+        "Geliş 63/64"
+      ]
+    },
+    "71377": {
+      "id": "71377",
+      "name": "Timo Konietzka",
+      "profile_url": "https://www.transfermarkt.com/timo-konietzka/profil/spieler/71377",
+      "seasons": [
+        "58/59",
+        "65/66"
+      ],
+      "transfers": [
+        "Ayrılış 65/66",
+        "Geliş 58/59"
+      ]
+    },
+    "96577": {
+      "id": "96577",
+      "name": "Heinz Kwiatkowski",
+      "profile_url": "https://www.transfermarkt.com/heinz-kwiatkowski/profil/spieler/96577",
+      "seasons": [
+        "52/53",
+        "65/66"
+      ],
+      "transfers": [
+        "Ayrılış 65/66",
+        "Geliş 52/53"
+      ]
+    },
+    "96596": {
+      "id": "96596",
+      "name": "Burghard Rylewicz",
+      "profile_url": "https://www.transfermarkt.com/burghard-rylewicz/profil/spieler/96596",
+      "seasons": [
+        "63/64",
+        "64/65"
+      ],
+      "transfers": [
+        "Ayrılış 64/65",
+        "Geliş 63/64"
+      ]
+    },
+    "96576": {
+      "id": "96576",
+      "name": "Hans-Jürgen Kurrat",
+      "profile_url": "https://www.transfermarkt.com/hans-jurgen-kurrat/profil/spieler/96576",
+      "seasons": [
+        "63/64",
+        "64/65"
+      ],
+      "transfers": [
+        "Ayrılış 64/65",
+        "Geliş 63/64"
+      ]
+    },
+    "96560": {
+      "id": "96560",
+      "name": "Wilhelm Burgsmüller",
+      "profile_url": "https://www.transfermarkt.com/wilhelm-burgsmuller/profil/spieler/96560",
+      "seasons": [
+        "52/53",
+        "64/65"
+      ],
+      "transfers": [
+        "Ayrılış 64/65",
+        "Geliş 52/53"
+      ]
+    },
+    "96556": {
+      "id": "96556",
+      "name": "Helmut Bracht",
+      "profile_url": "https://www.transfermarkt.com/helmut-bracht/profil/spieler/96556",
+      "seasons": [
+        "55/56",
+        "64/65"
+      ],
+      "transfers": [
+        "Ayrılış 64/65",
+        "Geliş 55/56"
+      ]
+    },
+    "80080": {
+      "id": "80080",
+      "name": "Gerd Roggensack",
+      "profile_url": "https://www.transfermarkt.com/gerd-roggensack/profil/spieler/80080",
+      "seasons": [
+        "62/63",
+        "63/64"
+      ],
+      "transfers": [
+        "Ayrılış 63/64",
+        "Geliş 62/63"
+      ]
+    },
+    "96574": {
+      "id": "96574",
+      "name": "Alfred Kelbassa",
+      "profile_url": "https://www.transfermarkt.com/alfred-kelbassa/profil/spieler/96574",
+      "seasons": [
+        "54/55",
+        "63/64"
+      ],
+      "transfers": [
+        "Ayrılış 63/64",
+        "Geliş 54/55"
+      ]
+    },
+    "96591": {
+      "id": "96591",
+      "name": "Wolfgang Peters",
+      "profile_url": "https://www.transfermarkt.com/wolfgang-peters/profil/spieler/96591",
+      "seasons": [
+        "54/55",
+        "63/64"
+      ],
+      "transfers": [
+        "Ayrılış 63/64",
+        "Geliş 54/55"
+      ]
+    },
+    "96611": {
+      "id": "96611",
+      "name": "Hans Cieslarczyk",
+      "profile_url": "https://www.transfermarkt.com/hans-cieslarczyk/profil/spieler/96611",
+      "seasons": [
+        "58/59",
+        "62/63"
+      ],
+      "transfers": [
+        "Ayrılış 62/63",
+        "Geliş 58/59"
+      ]
+    },
+    "96620": {
+      "id": "96620",
+      "name": "Rolf Thiemann",
+      "profile_url": "https://www.transfermarkt.com/rolf-thiemann/profil/spieler/96620",
+      "seasons": [
+        "59/60",
+        "62/63"
+      ],
+      "transfers": [
+        "Ayrılış 62/63",
+        "Geliş 59/60"
+      ]
+    },
+    "96619": {
+      "id": "96619",
+      "name": "Horst Steinkuhl",
+      "profile_url": "https://www.transfermarkt.com/horst-steinkuhl/profil/spieler/96619",
+      "seasons": [
+        "60/61",
+        "62/63"
+      ],
+      "transfers": [
+        "Ayrılış 62/63",
+        "Geliş 60/61"
+      ]
+    },
+    "96612": {
+      "id": "96612",
+      "name": "Heribert Demond",
+      "profile_url": "https://www.transfermarkt.com/heribert-demond/profil/spieler/96612",
+      "seasons": [
+        "61/62",
+        "62/63"
+      ],
+      "transfers": [
+        "Ayrılış 62/63",
+        "Geliş 61/62"
+      ]
+    },
+    "109356": {
+      "id": "109356",
+      "name": "Horst Mühlmann",
+      "profile_url": "https://www.transfermarkt.com/horst-muhlmann/profil/spieler/109356",
+      "seasons": [
+        "61/62"
+      ],
+      "transfers": [
+        "Ayrılış 61/62"
+      ]
+    },
+    "173806": {
+      "id": "173806",
+      "name": "Helmut Zatopek",
+      "profile_url": "https://www.transfermarkt.com/helmut-zatopek/profil/spieler/173806",
+      "seasons": [
+        "60/61",
+        "61/62"
+      ],
+      "transfers": [
+        "Ayrılış 61/62",
+        "Geliş 60/61"
+      ]
+    },
+    "96717": {
+      "id": "96717",
+      "name": "Klaus Pritz",
+      "profile_url": "https://www.transfermarkt.com/klaus-pritz/profil/spieler/96717",
+      "seasons": [
+        "60/61",
+        "61/62"
+      ],
+      "transfers": [
+        "Ayrılış 61/62",
+        "Geliş 60/61"
+      ]
+    },
+    "527310": {
+      "id": "527310",
+      "name": "Gerd Thiemann",
+      "profile_url": "https://www.transfermarkt.com/gerd-thiemann/profil/spieler/527310",
+      "seasons": [
+        "59/60",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 59/60"
+      ]
+    },
+    "531302": {
+      "id": "531302",
+      "name": "Helmut Grimm",
+      "profile_url": "https://www.transfermarkt.com/helmut-grimm/profil/spieler/531302",
+      "seasons": [
+        "59/60",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 59/60"
+      ]
+    },
+    "289741": {
+      "id": "289741",
+      "name": "Alfred Niepieklo",
+      "profile_url": "https://www.transfermarkt.com/alfred-niepieklo/profil/spieler/289741",
+      "seasons": [
+        "51/52",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 51/52"
+      ]
+    },
+    "134318": {
+      "id": "134318",
+      "name": "Hans Michel",
+      "profile_url": "https://www.transfermarkt.com/hans-michel/profil/spieler/134318",
+      "seasons": [
+        "57/58",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 57/58"
+      ]
+    },
+    "289692": {
+      "id": "289692",
+      "name": "Theo Berning",
+      "profile_url": "https://www.transfermarkt.com/theo-berning/profil/spieler/289692",
+      "seasons": [
+        "55/56",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 55/56"
+      ]
+    },
+    "531194": {
+      "id": "531194",
+      "name": "Manfred Koslowski",
+      "profile_url": "https://www.transfermarkt.com/manfred-koslowski/profil/spieler/531194",
+      "seasons": [
+        "58/59",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 58/59"
+      ]
+    },
+    "543027": {
+      "id": "543027",
+      "name": "Werner Fijalkowski",
+      "profile_url": "https://www.transfermarkt.com/werner-fijalkowski/profil/spieler/543027",
+      "seasons": [
+        "59/60",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 59/60"
+      ]
+    },
+    "543056": {
+      "id": "543056",
+      "name": "Werner Zielasko",
+      "profile_url": "https://www.transfermarkt.com/werner-zielasko/profil/spieler/543056",
+      "seasons": [
+        "58/59",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 58/59"
+      ]
+    },
+    "289760": {
+      "id": "289760",
+      "name": "Elwin Schlebrowski",
+      "profile_url": "https://www.transfermarkt.com/elwin-schlebrowski/profil/spieler/289760",
+      "seasons": [
+        "51/52",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 51/52"
+      ]
+    },
+    "289757": {
+      "id": "289757",
+      "name": "Herbert Sandmann",
+      "profile_url": "https://www.transfermarkt.com/herbert-sandmann/profil/spieler/289757",
+      "seasons": [
+        "47/48",
+        "49/50",
+        "51/52",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 51/52",
+        "Ayrılış 49/50",
+        "Geliş 47/48"
+      ]
+    },
+    "289735": {
+      "id": "289735",
+      "name": "Max Michallek",
+      "profile_url": "https://www.transfermarkt.com/max-michallek/profil/spieler/289735",
+      "seasons": [
+        "41/42",
+        "60/61"
+      ],
+      "transfers": [
+        "Ayrılış 60/61",
+        "Geliş 41/42"
+      ]
+    },
+    "109333": {
+      "id": "109333",
+      "name": "Hans-Georg Dulz",
+      "profile_url": "https://www.transfermarkt.com/hans-georg-dulz/profil/spieler/109333",
+      "seasons": [
+        "57/58",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 57/58"
+      ]
+    },
+    "290200": {
+      "id": "290200",
+      "name": "Friedhelm Meyer",
+      "profile_url": "https://www.transfermarkt.com/friedhelm-meyer/profil/spieler/290200",
+      "seasons": [
+        "57/58",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 57/58"
+      ]
+    },
+    "537976": {
+      "id": "537976",
+      "name": "Gerhard Reckels",
+      "profile_url": "https://www.transfermarkt.com/gerhard-reckels/profil/spieler/537976",
+      "seasons": [
+        "58/59",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 58/59"
+      ]
+    },
+    "550345": {
+      "id": "550345",
+      "name": "Jürgen Grau",
+      "profile_url": "https://www.transfermarkt.com/jurgen-grau/profil/spieler/550345",
+      "seasons": [
+        "58/59",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 58/59"
+      ]
+    },
+    "573128": {
+      "id": "573128",
+      "name": "Günter Rau",
+      "profile_url": "https://www.transfermarkt.com/gunter-rau/profil/spieler/573128",
+      "seasons": [
+        "48/49",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 48/49"
+      ]
+    },
+    "187643": {
+      "id": "187643",
+      "name": "Adi Preißler",
+      "profile_url": "https://www.transfermarkt.com/adi-preissler/profil/spieler/187643",
+      "seasons": [
+        "46/47",
+        "50/51",
+        "52/53",
+        "59/60"
+      ],
+      "transfers": [
+        "Ayrılış 59/60",
+        "Geliş 52/53",
+        "Ayrılış 50/51",
+        "Geliş 46/47"
+      ]
+    },
+    "290209": {
+      "id": "290209",
+      "name": "Adolf Poltorak",
+      "profile_url": "https://www.transfermarkt.com/adolf-poltorak/profil/spieler/290209",
+      "seasons": [
+        "55/56",
+        "58/59"
+      ],
+      "transfers": [
+        "Ayrılış 58/59",
+        "Geliş 55/56"
+      ]
+    },
+    "289761": {
+      "id": "289761",
+      "name": "Willi Schumacher",
+      "profile_url": "https://www.transfermarkt.com/willi-schumacher/profil/spieler/289761",
+      "seasons": [
+        "54/55",
+        "58/59"
+      ],
+      "transfers": [
+        "Ayrılış 58/59",
+        "Geliş 54/55"
+      ]
+    },
+    "289763": {
+      "id": "289763",
+      "name": "Heinz Simmer",
+      "profile_url": "https://www.transfermarkt.com/heinz-simmer/profil/spieler/289763",
+      "seasons": [
+        "56/57",
+        "58/59"
+      ],
+      "transfers": [
+        "Ayrılış 58/59",
+        "Geliş 56/57"
+      ]
+    },
+    "109437": {
+      "id": "109437",
+      "name": "Helmut Kapitulski",
+      "profile_url": "https://www.transfermarkt.com/helmut-kapitulski/profil/spieler/109437",
+      "seasons": [
+        "53/54",
+        "57/58"
+      ],
+      "transfers": [
+        "Ayrılış 57/58",
+        "Geliş 53/54"
+      ]
+    },
+    "289775": {
+      "id": "289775",
+      "name": "Ewald Wischner",
+      "profile_url": "https://www.transfermarkt.com/ewald-wischner/profil/spieler/289775",
+      "seasons": [
+        "50/51",
+        "57/58"
+      ],
+      "transfers": [
+        "Ayrılış 57/58",
+        "Geliş 50/51"
+      ]
+    },
+    "259874": {
+      "id": "259874",
+      "name": "Erich Schanko",
+      "profile_url": "https://www.transfermarkt.com/erich-schanko/profil/spieler/259874",
+      "seasons": [
+        "47/48",
+        "57/58"
+      ],
+      "transfers": [
+        "Ayrılış 57/58",
+        "Geliş 47/48"
+      ]
+    },
+    "289716": {
+      "id": "289716",
+      "name": "Hans Flügel",
+      "profile_url": "https://www.transfermarkt.com/hans-flugel/profil/spieler/289716",
+      "seasons": [
+        "50/51",
+        "57/58"
+      ],
+      "transfers": [
+        "Ayrılış 57/58",
+        "Geliş 50/51"
+      ]
+    },
+    "573037": {
+      "id": "573037",
+      "name": "Udo Remmert",
+      "profile_url": "https://www.transfermarkt.com/udo-remmert/profil/spieler/573037",
+      "seasons": [
+        "55/56",
+        "56/57"
+      ],
+      "transfers": [
+        "Ayrılış 56/57",
+        "Geliş 55/56"
+      ]
+    },
+    "604746": {
+      "id": "604746",
+      "name": "Adolf Luckenbach",
+      "profile_url": "https://www.transfermarkt.com/adolf-luckenbach/profil/spieler/604746",
+      "seasons": [
+        "53/54",
+        "55/56"
+      ],
+      "transfers": [
+        "Ayrılış 55/56",
+        "Geliş 53/54"
+      ]
+    },
+    "888169": {
+      "id": "888169",
+      "name": "Günther Falke",
+      "profile_url": "https://www.transfermarkt.com/gunther-falke/profil/spieler/888169",
+      "seasons": [
+        "53/54",
+        "55/56"
+      ],
+      "transfers": [
+        "Ayrılış 55/56",
+        "Geliş 53/54"
+      ]
+    },
+    "889933": {
+      "id": "889933",
+      "name": "Herbert Knecht",
+      "profile_url": "https://www.transfermarkt.com/herbert-knecht/profil/spieler/889933",
+      "seasons": [
+        "54/55",
+        "55/56"
+      ],
+      "transfers": [
+        "Ayrılış 55/56",
+        "Geliş 54/55"
+      ]
+    },
+    "887932": {
+      "id": "887932",
+      "name": "Pat Koschmieder",
+      "profile_url": "https://www.transfermarkt.com/pat-koschmieder/profil/spieler/887932",
+      "seasons": [
+        "39/40",
+        "55/56"
+      ],
+      "transfers": [
+        "Ayrılış 55/56",
+        "Geliş 39/40"
+      ]
+    },
+    "997483": {
+      "id": "997483",
+      "name": "Klaus Ullrich",
+      "profile_url": "https://www.transfermarkt.com/klaus-ullrich/profil/spieler/997483",
+      "seasons": [
+        "53/54",
+        "54/55"
+      ],
+      "transfers": [
+        "Ayrılış 54/55",
+        "Geliş 53/54"
+      ]
+    },
+    "997168": {
+      "id": "997168",
+      "name": "Georg Lindner",
+      "profile_url": "https://www.transfermarkt.com/georg-lindner/profil/spieler/997168",
+      "seasons": [
+        "53/54"
+      ],
+      "transfers": [
+        "Geliş 53/54"
+      ]
+    },
+    "136644": {
+      "id": "136644",
+      "name": "Edmond Kasperski",
+      "profile_url": "https://www.transfermarkt.com/edmond-kasperski/profil/spieler/136644",
+      "seasons": [
+        "48/49",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 48/49"
+      ]
+    },
+    "521041": {
+      "id": "521041",
+      "name": "Kurt Sahm",
+      "profile_url": "https://www.transfermarkt.com/kurt-sahm/profil/spieler/521041",
+      "seasons": [
+        "50/51",
+        "51/52",
+        "52/53",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 52/53",
+        "Ayrılış 51/52",
+        "Geliş 50/51"
+      ]
+    },
+    "538046": {
+      "id": "538046",
+      "name": "Franz Farke",
+      "profile_url": "https://www.transfermarkt.com/franz-farke/profil/spieler/538046",
+      "seasons": [
+        "52/53",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 52/53"
+      ]
+    },
+    "573155": {
+      "id": "573155",
+      "name": "Alfred Mikuda",
+      "profile_url": "https://www.transfermarkt.com/alfred-mikuda/profil/spieler/573155",
+      "seasons": [
+        "50/51",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 50/51"
+      ]
+    },
+    "944859": {
+      "id": "944859",
+      "name": "Erich Wieding",
+      "profile_url": "https://www.transfermarkt.com/erich-wieding/profil/spieler/944859",
+      "seasons": [
+        "50/51",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 50/51"
+      ]
+    },
+    "996674": {
+      "id": "996674",
+      "name": "Josef Linneweber",
+      "profile_url": "https://www.transfermarkt.com/josef-linneweber/profil/spieler/996674",
+      "seasons": [
+        "50/51",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 50/51"
+      ]
+    },
+    "994562": {
+      "id": "994562",
+      "name": "Friedrich Vogt",
+      "profile_url": "https://www.transfermarkt.com/friedrich-vogt/profil/spieler/994562",
+      "seasons": [
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54"
+      ]
+    },
+    "947425": {
+      "id": "947425",
+      "name": "Erwin Halfen",
+      "profile_url": "https://www.transfermarkt.com/erwin-halfen/profil/spieler/947425",
+      "seasons": [
+        "44/45",
+        "53/54"
+      ],
+      "transfers": [
+        "Ayrılış 53/54",
+        "Geliş 44/45"
+      ]
+    },
+    "947421": {
+      "id": "947421",
+      "name": "Friedel Ibel",
+      "profile_url": "https://www.transfermarkt.com/friedel-ibel/profil/spieler/947421",
+      "seasons": [
+        "46/47",
+        "52/53"
+      ],
+      "transfers": [
+        "Ayrılış 52/53",
+        "Geliş 46/47"
+      ]
+    },
+    "1012729": {
+      "id": "1012729",
+      "name": "Ernst Geschwind",
+      "profile_url": "https://www.transfermarkt.com/ernst-geschwind/profil/spieler/1012729",
+      "seasons": [
+        "51/52",
+        "52/53"
+      ],
+      "transfers": [
+        "Ayrılış 52/53",
+        "Geliş 51/52"
+      ]
+    },
+    "950500": {
+      "id": "950500",
+      "name": "Herbert Erdmann",
+      "profile_url": "https://www.transfermarkt.com/herbert-erdmann/profil/spieler/950500",
+      "seasons": [
+        "39/40",
+        "52/53"
+      ],
+      "transfers": [
+        "Ayrılış 52/53",
+        "Geliş 39/40"
+      ]
+    },
+    "1014383": {
+      "id": "1014383",
+      "name": "Alfred Meinsen",
+      "profile_url": "https://www.transfermarkt.com/alfred-meinsen/profil/spieler/1014383",
+      "seasons": [
+        "50/51",
+        "51/52"
+      ],
+      "transfers": [
+        "Ayrılış 51/52",
+        "Geliş 50/51"
+      ]
+    },
+    "996052": {
+      "id": "996052",
+      "name": "Günther Reubert",
+      "profile_url": "https://www.transfermarkt.com/gunther-reubert/profil/spieler/996052",
+      "seasons": [
+        "49/50",
+        "51/52"
+      ],
+      "transfers": [
+        "Ayrılış 51/52",
+        "Geliş 49/50"
+      ]
+    },
+    "996534": {
+      "id": "996534",
+      "name": "Herbert Frank",
+      "profile_url": "https://www.transfermarkt.com/herbert-frank/profil/spieler/996534",
+      "seasons": [
+        "49/50",
+        "51/52"
+      ],
+      "transfers": [
+        "Ayrılış 51/52",
+        "Geliş 49/50"
+      ]
+    },
+    "1067112": {
+      "id": "1067112",
+      "name": "Karl-Heinz Pahlhammer",
+      "profile_url": "https://www.transfermarkt.com/karl-heinz-pahlhammer/profil/spieler/1067112",
+      "seasons": [
+        "50/51",
+        "51/52"
+      ],
+      "transfers": [
+        "Ayrılış 51/52",
+        "Geliş 50/51"
+      ]
+    },
+    "950497": {
+      "id": "950497",
+      "name": "Heinrich Ruhmhofer",
+      "profile_url": "https://www.transfermarkt.com/heinrich-ruhmhofer/profil/spieler/950497",
+      "seasons": [
+        "40/41",
+        "51/52"
+      ],
+      "transfers": [
+        "Ayrılış 51/52",
+        "Geliş 40/41"
+      ]
+    },
+    "893049": {
+      "id": "893049",
+      "name": "Werner Erdmann",
+      "profile_url": "https://www.transfermarkt.com/werner-erdmann/profil/spieler/893049",
+      "seasons": [
+        "45/46",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 45/46"
+      ]
+    },
+    "944869": {
+      "id": "944869",
+      "name": "Heinz Otten",
+      "profile_url": "https://www.transfermarkt.com/heinz-otten/profil/spieler/944869",
+      "seasons": [
+        "49/50",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 49/50"
+      ]
+    },
+    "141260": {
+      "id": "141260",
+      "name": "Rudi Schulz",
+      "profile_url": "https://www.transfermarkt.com/rudi-schulz/profil/spieler/141260",
+      "seasons": [
+        "49/50",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 49/50"
+      ]
+    },
+    "896382": {
+      "id": "896382",
+      "name": "Gerd Schweinsberg",
+      "profile_url": "https://www.transfermarkt.com/gerd-schweinsberg/profil/spieler/896382",
+      "seasons": [
+        "49/50",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 49/50"
+      ]
+    },
+    "950499": {
+      "id": "950499",
+      "name": "Wilhelm Buddenberg",
+      "profile_url": "https://www.transfermarkt.com/wilhelm-buddenberg/profil/spieler/950499",
+      "seasons": [
+        "48/49",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 48/49"
+      ]
+    },
+    "947426": {
+      "id": "947426",
+      "name": "Herbert Hammer",
+      "profile_url": "https://www.transfermarkt.com/herbert-hammer/profil/spieler/947426",
+      "seasons": [
+        "49/50",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 49/50"
+      ]
+    },
+    "995654": {
+      "id": "995654",
+      "name": "Kurt Geitz",
+      "profile_url": "https://www.transfermarkt.com/kurt-geitz/profil/spieler/995654",
+      "seasons": [
+        "48/49",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 48/49"
+      ]
+    },
+    "994746": {
+      "id": "994746",
+      "name": "Wilhelm Kronsbein",
+      "profile_url": "https://www.transfermarkt.com/wilhelm-kronsbein/profil/spieler/994746",
+      "seasons": [
+        "46/47",
+        "50/51"
+      ],
+      "transfers": [
+        "Ayrılış 50/51",
+        "Geliş 46/47"
+      ]
+    },
+    "994864": {
+      "id": "994864",
+      "name": "Ernst Steinforth",
+      "profile_url": "https://www.transfermarkt.com/ernst-steinforth/profil/spieler/994864",
+      "seasons": [
+        "48/49",
+        "49/50"
+      ],
+      "transfers": [
+        "Ayrılış 49/50",
+        "Geliş 48/49"
+      ]
+    },
+    "996014": {
+      "id": "996014",
+      "name": "Paul Marsiske",
+      "profile_url": "https://www.transfermarkt.com/paul-marsiske/profil/spieler/996014",
+      "seasons": [
+        "37/38",
+        "49/50"
+      ],
+      "transfers": [
+        "Ayrılış 49/50",
+        "Geliş 37/38"
+      ]
+    },
+    "204579": {
+      "id": "204579",
+      "name": "August Lenz",
+      "profile_url": "https://www.transfermarkt.com/august-lenz/profil/spieler/204579",
+      "seasons": [
+        "30/31",
+        "49/50"
+      ],
+      "transfers": [
+        "Ayrılış 49/50",
+        "Geliş 30/31"
+      ]
+    },
+    "994742": {
+      "id": "994742",
+      "name": "Paul Janowski",
+      "profile_url": "https://www.transfermarkt.com/paul-janowski/profil/spieler/994742",
+      "seasons": [
+        "35/36",
+        "48/49"
+      ],
+      "transfers": [
+        "Ayrılış 48/49",
+        "Geliş 35/36"
+      ]
+    },
+    "994857": {
+      "id": "994857",
+      "name": "Franz Podgorski",
+      "profile_url": "https://www.transfermarkt.com/franz-podgorski/profil/spieler/994857",
+      "seasons": [
+        "47/48",
+        "48/49"
+      ],
+      "transfers": [
+        "Ayrılış 48/49",
+        "Geliş 47/48"
+      ]
+    },
+    "1067113": {
+      "id": "1067113",
+      "name": "Marian Brezinski",
+      "profile_url": "https://www.transfermarkt.com/marian-brezinski/profil/spieler/1067113",
+      "seasons": [
+        "36/37",
+        "39/40",
+        "47/48",
+        "48/49"
+      ],
+      "transfers": [
+        "Ayrılış 48/49",
+        "Geliş 47/48",
+        "Ayrılış 39/40",
+        "Geliş 36/37"
+      ]
+    },
+    "1067114": {
+      "id": "1067114",
+      "name": "August Zideller",
+      "profile_url": "https://www.transfermarkt.com/august-zideller/profil/spieler/1067114",
+      "seasons": [
+        "34/35",
+        "48/49"
+      ],
+      "transfers": [
+        "Ayrılış 48/49",
+        "Geliş 34/35"
+      ]
+    },
+    "1514405": {
+      "id": "1514405",
+      "name": "Bernhard Blume",
+      "profile_url": "https://www.transfermarkt.com/bernhard-blume/profil/spieler/1514405",
+      "seasons": [
+        "39/40",
+        "48/49"
+      ],
+      "transfers": [
+        "Ayrılış 48/49",
+        "Geliş 39/40"
+      ]
+    },
+    "1048264": {
+      "id": "1048264",
+      "name": "Charles Hoffmann",
+      "profile_url": "https://www.transfermarkt.com/charles-hoffmann/profil/spieler/1048264",
+      "seasons": [
+        "43/44",
+        "45/46"
+      ],
+      "transfers": [
+        "Ayrılış 45/46",
+        "Geliş 43/44"
+      ]
+    },
+    "995340": {
+      "id": "995340",
+      "name": "Robert Romanowski",
+      "profile_url": "https://www.transfermarkt.com/robert-romanowski/profil/spieler/995340",
+      "seasons": [
+        "43/44",
+        "45/46"
+      ],
+      "transfers": [
+        "Ayrılış 45/46",
+        "Geliş 43/44"
+      ]
+    },
+    "1046493": {
+      "id": "1046493",
+      "name": "Emil Stachorra",
+      "profile_url": "https://www.transfermarkt.com/emil-stachorra/profil/spieler/1046493",
+      "seasons": [
+        "34/35",
+        "41/42",
+        "45/46"
+      ],
+      "transfers": [
+        "Ayrılış 45/46",
+        "Geliş 41/42",
+        "Ayrılış 41/42",
+        "Geliş 34/35"
+      ]
+    },
+    "1083003": {
+      "id": "1083003",
+      "name": "Erich Trapp",
+      "profile_url": "https://www.transfermarkt.com/erich-trapp/profil/spieler/1083003",
+      "seasons": [
+        "43/44",
+        "44/45"
+      ],
+      "transfers": [
+        "Ayrılış 44/45",
+        "Geliş 43/44"
+      ]
+    },
+    "1247753": {
+      "id": "1247753",
+      "name": "Ewald Göbel",
+      "profile_url": "https://www.transfermarkt.com/ewald-gobel/profil/spieler/1247753",
+      "seasons": [
+        "34/35",
+        "44/45"
+      ],
+      "transfers": [
+        "Ayrılış 44/45",
+        "Geliş 34/35"
+      ]
+    },
+    "1515581": {
+      "id": "1515581",
+      "name": "Paul Göbel",
+      "profile_url": "https://www.transfermarkt.com/paul-gobel/profil/spieler/1515581",
+      "seasons": [
+        "35/36",
+        "44/45"
+      ],
+      "transfers": [
+        "Ayrılış 44/45",
+        "Geliş 35/36"
+      ]
+    },
+    "1515580": {
+      "id": "1515580",
+      "name": "Hugo Göbel",
+      "profile_url": "https://www.transfermarkt.com/hugo-gobel/profil/spieler/1515580",
+      "seasons": [
+        "1928/29",
+        "44/45"
+      ],
+      "transfers": [
+        "Ayrılış 44/45",
+        "Geliş 1928/29"
+      ]
+    },
+    "1519120": {
+      "id": "1519120",
+      "name": "Max Romanowski",
+      "profile_url": "https://www.transfermarkt.com/max-romanowski/profil/spieler/1519120",
+      "seasons": [
+        "34/35",
+        "44/45"
+      ],
+      "transfers": [
+        "Ayrılış 44/45",
+        "Geliş 34/35"
+      ]
+    },
+    "1519121": {
+      "id": "1519121",
+      "name": "Otto Sombetzki",
+      "profile_url": "https://www.transfermarkt.com/otto-sombetzki/profil/spieler/1519121",
+      "seasons": [
+        "38/39",
+        "43/44"
+      ],
+      "transfers": [
+        "Ayrılış 43/44",
+        "Geliş 38/39"
+      ]
+    },
+    "1509088": {
+      "id": "1509088",
+      "name": "Gerd Berheide",
+      "profile_url": "https://www.transfermarkt.com/gerd-berheide/profil/spieler/1509088",
+      "seasons": [
+        "35/36",
+        "43/44"
+      ],
+      "transfers": [
+        "Ayrılış 43/44",
+        "Geliş 35/36"
+      ]
+    },
+    "1509086": {
+      "id": "1509086",
+      "name": "Karl Eron",
+      "profile_url": "https://www.transfermarkt.com/karl-eron/profil/spieler/1509086",
+      "seasons": [
+        "37/38",
+        "42/43"
+      ],
+      "transfers": [
+        "Ayrılış 42/43",
+        "Geliş 37/38"
+      ]
+    },
+    "1509087": {
+      "id": "1509087",
+      "name": "Hans Büttner",
+      "profile_url": "https://www.transfermarkt.com/hans-buttner/profil/spieler/1509087",
+      "seasons": [
+        "37/38",
+        "41/42"
+      ],
+      "transfers": [
+        "Ayrılış 41/42",
+        "Geliş 37/38"
+      ]
+    },
+    "1511984": {
+      "id": "1511984",
+      "name": "Hermann Stachorra",
+      "profile_url": "https://www.transfermarkt.com/hermann-stachorra/profil/spieler/1511984",
+      "seasons": [
+        "39/40",
+        "40/41"
+      ],
+      "transfers": [
+        "Ayrılış 40/41",
+        "Geliş 39/40"
+      ]
+    },
+    "1247750": {
+      "id": "1247750",
+      "name": "Paul Burzik",
+      "profile_url": "https://www.transfermarkt.com/paul-burzik/profil/spieler/1247750",
+      "seasons": [
+        "1928/29",
+        "40/41"
+      ],
+      "transfers": [
+        "Ayrılış 40/41",
+        "Geliş 1928/29"
+      ]
+    },
+    "1247749": {
+      "id": "1247749",
+      "name": "Heinrich Jeuschede",
+      "profile_url": "https://www.transfermarkt.com/heinrich-jeuschede/profil/spieler/1247749",
+      "seasons": [
+        "39/40",
+        "40/41"
+      ],
+      "transfers": [
+        "Ayrılış 40/41",
+        "Geliş 39/40"
+      ]
+    },
+    "1519119": {
+      "id": "1519119",
+      "name": "Heinz Kerker",
+      "profile_url": "https://www.transfermarkt.com/heinz-kerker/profil/spieler/1519119",
+      "seasons": [
+        "38/39",
+        "39/40"
+      ],
+      "transfers": [
+        "Ayrılış 39/40",
+        "Geliş 38/39"
+      ]
+    },
+    "1247751": {
+      "id": "1247751",
+      "name": "Hugo Heiner",
+      "profile_url": "https://www.transfermarkt.com/hugo-heiner/profil/spieler/1247751",
+      "seasons": [
+        "31/32",
+        "39/40"
+      ],
+      "transfers": [
+        "Ayrılış 39/40",
+        "Geliş 31/32"
+      ]
+    },
+    "1247752": {
+      "id": "1247752",
+      "name": "Johann Kolodzig",
+      "profile_url": "https://www.transfermarkt.com/johann-kolodzig/profil/spieler/1247752",
+      "seasons": [
+        "38/39",
+        "39/40"
+      ],
+      "transfers": [
+        "Ayrılış 39/40",
+        "Geliş 38/39"
+      ]
+    },
+    "1511974": {
+      "id": "1511974",
+      "name": "Willi Ibel",
+      "profile_url": "https://www.transfermarkt.com/willi-ibel/profil/spieler/1511974",
+      "seasons": [
+        "36/37",
+        "39/40"
+      ],
+      "transfers": [
+        "Ayrılış 39/40",
+        "Geliş 36/37"
+      ]
+    },
+    "1247754": {
+      "id": "1247754",
+      "name": "Wilhelm Dunay",
+      "profile_url": "https://www.transfermarkt.com/wilhelm-dunay/profil/spieler/1247754",
+      "seasons": [
+        "36/37"
+      ],
+      "transfers": [
+        "Geliş 36/37"
+      ]
+    },
+    "1247756": {
+      "id": "1247756",
+      "name": "Josef Lukasiewicz",
+      "profile_url": "https://www.transfermarkt.com/josef-lukasiewicz/profil/spieler/1247756",
+      "seasons": [
+        "33/34"
+      ],
+      "transfers": [
+        "Geliş 33/34"
+      ]
+    }
+  }
+}
